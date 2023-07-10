@@ -1,0 +1,893 @@
+client_id,cltv,next_best_product,product_propensity,next_best_offer,offer_propensity,churn_score,nps_score,segment
+1947,6303.38,Travel Loan,0.75,merchant_offer_0,0.72,0.48,7,Retirees
+7422,19726.16,Travel Loan,0.96,merchant_offer_0,0.49,0.61,9,Retirees
+2865,3981.56,Travel Loan,0.87,merchant_offer_0,0.98,0.4,10,Retirees
+992,7978.3,Consumer Durables Loan,0.42,merchant_offer_0,0.54,0.74,6,Retirees
+1971,16720.21,Consumer Durables Loan,0.68,merchant_offer_0,0.46,0.86,9,Retirees
+3765,2296.9,Consumer Durables Loan,0.6,merchant_offer_0,0.41,0.76,5,Retirees
+4941,6938.22,Consumer Durables Loan,0.91,merchant_offer_0,0.71,0.98,8,Retirees
+1473,5258.12,Consumer Durables Loan,0.83,merchant_offer_1,0.84,0.78,5,Retirees
+3465,6142.91,Travel Loan,0.6,merchant_offer_1,0.92,0.63,4,Retirees
+333,2571.0,Consumer Durables Loan,0.64,merchant_offer_1,0.64,0.96,6,Retirees
+1492,15041.98,Home Renovation Loan,0.97,merchant_offer_1,0.52,0.82,9,Retirees
+2513,11099.08,Travel Loan,0.7,merchant_offer_1,0.41,0.76,7,Retirees
+6275,24800.57,Travel Loan,0.83,merchant_offer_1,0.73,0.67,8,Retirees
+13201,28760.58,Consumer Durables Loan,0.5,merchant_offer_1,0.88,0.73,8,Retirees
+490,20787.74,Travel Loan,0.68,merchant_offer_1,0.87,0.82,6,Retirees
+1589,8270.95,Consumer Durables Loan,0.54,merchant_offer_1,0.99,0.9,7,Retirees
+1480,18113.62,Travel Loan,0.71,merchant_offer_1,0.64,0.54,4,Retirees
+3405,3308.33,Consumer Durables Loan,0.93,merchant_offer_1,0.55,0.72,8,Retirees
+8295,1696.73,Consumer Durables Loan,0.61,merchant_offer_1,0.56,0.57,7,Retirees
+3082,2233.95,Consumer Durables Loan,0.99,merchant_offer_1,0.77,0.54,7,Retirees
+797,8395.0,Travel Loan,0.88,merchant_offer_1,0.96,0.68,6,Retirees
+2137,17114.18,Consumer Durables Loan,0.92,merchant_offer_1,0.69,0.82,6,Retirees
+2888,10178.69,Consumer Durables Loan,0.73,merchant_offer_1,1.0,0.58,7,Retirees
+4471,20662.53,Consumer Durables Loan,0.88,merchant_offer_2,0.8,0.94,8,Retirees
+3687,6189.14,Consumer Durables Loan,0.87,merchant_offer_2,0.71,0.55,5,Retirees
+2808,742.6,Consumer Durables Loan,0.7,merchant_offer_2,0.91,0.85,10,Retirees
+3268,5775.41,Consumer Durables Loan,0.66,merchant_offer_2,0.84,0.72,4,Retirees
+13690,4428.03,Travel Loan,0.85,merchant_offer_2,0.86,0.53,5,Retirees
+1246,18640.13,Travel Loan,0.83,merchant_offer_2,0.72,0.71,9,Retirees
+4751,4691.99,Travel Loan,0.55,merchant_offer_2,0.88,0.76,9,Retirees
+4472,6355.78,Consumer Durables Loan,0.63,merchant_offer_2,0.88,0.59,7,Retirees
+2619,4063.55,Home Renovation Loan,0.8,merchant_offer_2,0.5,0.71,6,Retirees
+3616,3627.0,Home Renovation Loan,0.91,merchant_offer_2,0.63,0.62,10,Retirees
+3348,4829.12,Consumer Durables Loan,0.58,merchant_offer_2,0.72,0.88,5,Retirees
+1289,2821.27,Travel Loan,0.58,merchant_offer_2,0.86,0.91,8,Retirees
+12810,15203.5,Consumer Durables Loan,0.53,merchant_offer_2,0.66,0.76,7,Retirees
+7855,27596.38,Consumer Durables Loan,0.81,merchant_offer_2,0.8,0.63,4,Retirees
+1453,14509.59,Consumer Durables Loan,0.66,merchant_offer_2,0.82,0.94,8,Retirees
+128,7800.25,Consumer Durables Loan,0.77,merchant_offer_2,0.9,0.7,8,Retirees
+4211,18434.27,Consumer Durables Loan,0.51,merchant_offer_3,0.7,0.5,7,Retirees
+7567,5831.3,Travel Loan,0.45,merchant_offer_3,0.57,0.58,9,Retirees
+5200,13812.05,Consumer Durables Loan,0.69,merchant_offer_3,0.79,0.57,6,Retirees
+221,4969.36,Consumer Durables Loan,0.86,merchant_offer_3,0.53,0.9,6,Retirees
+3259,9121.7,Consumer Durables Loan,0.7,merchant_offer_3,0.61,0.55,7,Retirees
+1027,3141.84,Consumer Durables Loan,0.77,merchant_offer_3,0.74,0.75,6,Retirees
+822,2000.85,Consumer Durables Loan,0.9,merchant_offer_3,0.56,0.85,8,Retirees
+6906,7000.57,Travel Loan,0.51,merchant_offer_3,0.82,0.62,5,Retirees
+2971,22725.37,Consumer Durables Loan,0.8,merchant_offer_3,0.88,0.92,6,Retirees
+12843,5643.49,Consumer Durables Loan,0.85,merchant_offer_3,0.53,0.79,10,Retirees
+4426,3819.31,Home Renovation Loan,0.5,merchant_offer_3,0.44,0.79,10,Retirees
+4333,16441.92,Travel Loan,0.7,merchant_offer_3,0.64,0.42,8,Retirees
+4654,564.32,Consumer Durables Loan,0.6,merchant_offer_3,0.5,0.88,7,Retirees
+1807,26325.67,Travel Loan,0.71,merchant_offer_3,0.82,0.67,7,Retirees
+13089,6149.35,Consumer Durables Loan,0.98,merchant_offer_3,0.56,0.98,6,Retirees
+1876,1893.47,Debt Consolidation Loan,0.76,merchant_offer_3,0.59,0.51,7,Retirees
+6753,9203.82,Consumer Durables Loan,0.51,merchant_offer_3,1.0,0.8,8,Retirees
+4349,16947.75,Home Renovation Loan,0.76,merchant_offer_3,0.84,0.84,8,Retirees
+2948,13945.08,Travel Loan,0.82,merchant_offer_3,0.64,0.89,7,Retirees
+208,22512.09,Consumer Durables Loan,0.66,merchant_offer_4,0.64,0.41,7,Retirees
+3128,11239.66,Consumer Durables Loan,0.59,merchant_offer_4,0.94,0.73,8,Retirees
+5126,12051.37,Travel Loan,0.44,merchant_offer_4,0.82,0.45,8,Retirees
+9,17429.92,Consumer Durables Loan,0.62,merchant_offer_4,0.59,0.46,9,Retirees
+2762,22460.34,Consumer Durables Loan,0.57,merchant_offer_4,0.92,0.46,6,Retirees
+5175,23947.25,Consumer Durables Loan,0.87,merchant_offer_4,0.83,0.7,5,Retirees
+2265,13523.76,Travel Loan,0.99,merchant_offer_4,0.7,0.93,7,Retirees
+2657,21691.83,Consumer Durables Loan,0.84,merchant_offer_4,0.74,0.76,8,Retirees
+4318,3220.09,Consumer Durables Loan,0.5,merchant_offer_4,0.88,0.87,7,Retirees
+592,25496.68,Travel Loan,0.97,merchant_offer_4,0.46,0.72,7,Retirees
+225,28622.65,Travel Loan,0.63,merchant_offer_4,0.65,0.67,8,Retirees
+3987,3615.18,Travel Loan,0.5,merchant_offer_4,0.62,0.57,5,Retirees
+1529,18520.43,Consumer Durables Loan,0.73,merchant_offer_4,0.93,0.54,5,Retirees
+9457,10792.93,Consumer Durables Loan,0.49,merchant_offer_4,0.82,0.52,4,Retirees
+629,19734.78,Travel Loan,0.76,merchant_offer_4,0.99,0.63,5,Retirees
+3310,16082.12,Travel Loan,0.72,merchant_offer_5,0.63,0.42,5,Retirees
+1500,4089.13,Travel Loan,0.48,merchant_offer_5,0.88,0.54,5,Retirees
+5521,7362.1,Consumer Durables Loan,0.77,merchant_offer_5,0.52,0.92,5,Retirees
+1795,2972.75,Consumer Durables Loan,0.95,merchant_offer_5,0.57,0.52,10,Retirees
+1690,3879.76,Consumer Durables Loan,0.59,merchant_offer_5,0.77,0.83,6,Retirees
+2502,6323.6,Consumer Durables Loan,0.7,merchant_offer_5,0.53,0.6,8,Retirees
+11319,2681.68,Home Renovation Loan,0.82,merchant_offer_5,0.88,0.95,10,Retirees
+3183,9357.4,Travel Loan,0.83,merchant_offer_5,0.73,0.64,7,Retirees
+1384,4966.58,Consumer Durables Loan,0.52,merchant_offer_5,0.43,0.55,7,Retirees
+305,2429.91,Consumer Durables Loan,0.94,merchant_offer_5,0.74,0.94,7,Retirees
+469,4783.01,Consumer Durables Loan,0.67,merchant_offer_5,0.89,0.67,9,Retirees
+13405,7258.7,Debt Consolidation Loan,0.45,merchant_offer_5,0.73,0.57,9,Retirees
+3947,12362.58,Consumer Durables Loan,0.55,merchant_offer_5,0.78,0.6,8,Retirees
+3166,12871.73,Travel Loan,0.79,merchant_offer_5,0.89,0.61,10,Retirees
+3751,2401.02,Travel Loan,0.69,merchant_offer_6,0.54,0.66,7,Retirees
+1680,3923.69,Consumer Durables Loan,0.76,merchant_offer_6,0.56,0.56,6,Retirees
+2659,22101.22,Travel Loan,0.7,merchant_offer_6,0.66,0.76,9,Retirees
+3944,19216.48,Travel Loan,0.55,merchant_offer_6,0.71,0.57,9,Retirees
+267,19420.1,Travel Loan,0.73,merchant_offer_6,0.87,0.68,9,Retirees
+5013,16983.11,Home Renovation Loan,0.51,merchant_offer_6,0.4,0.72,10,Retirees
+10543,4977.72,Consumer Durables Loan,0.55,merchant_offer_6,0.65,0.7,8,Retirees
+1793,8354.04,Consumer Durables Loan,0.86,merchant_offer_6,0.71,0.72,8,Retirees
+719,20687.17,Consumer Durables Loan,0.68,merchant_offer_6,0.65,0.87,8,Retirees
+4295,7417.97,Debt Consolidation Loan,0.64,merchant_offer_6,0.93,0.79,4,Retirees
+3291,3154.02,Consumer Durables Loan,0.9,merchant_offer_6,0.83,0.8,8,Retirees
+474,17791.15,Consumer Durables Loan,0.63,merchant_offer_6,0.76,0.42,5,Retirees
+4588,4413.58,Consumer Durables Loan,0.57,merchant_offer_6,0.59,0.89,6,Retirees
+1194,13156.43,Consumer Durables Loan,0.9,merchant_offer_6,0.63,0.97,6,Retirees
+3092,6665.1,Consumer Durables Loan,0.57,merchant_offer_6,0.67,0.64,6,Retirees
+11491,9276.15,Home Renovation Loan,0.84,merchant_offer_7,0.82,0.66,10,Retirees
+4083,900.94,Consumer Durables Loan,0.51,merchant_offer_7,0.88,0.74,8,Retirees
+1213,14551.15,Debt Consolidation Loan,0.44,merchant_offer_7,0.5,0.41,9,Retirees
+238,10345.3,Consumer Durables Loan,0.64,merchant_offer_7,0.41,0.9,6,Retirees
+2015,15296.56,Consumer Durables Loan,0.57,merchant_offer_7,0.98,0.83,8,Retirees
+4190,8105.89,Consumer Durables Loan,0.75,merchant_offer_7,0.82,0.87,8,Retirees
+56,18044.54,Consumer Durables Loan,0.81,merchant_offer_7,0.43,0.77,5,Retirees
+1067,4130.59,Consumer Durables Loan,0.67,merchant_offer_7,0.77,0.67,9,Retirees
+9914,12469.1,Travel Loan,0.83,merchant_offer_7,0.44,0.86,9,Retirees
+3958,2731.36,Consumer Durables Loan,0.72,merchant_offer_7,0.87,0.87,9,Retirees
+946,9330.49,Travel Loan,0.69,merchant_offer_7,0.79,0.7,8,Retirees
+528,13967.41,Travel Loan,0.58,merchant_offer_7,0.63,0.75,6,Retirees
+8342,12728.2,Travel Loan,0.73,merchant_offer_7,0.72,0.67,7,Retirees
+1418,3162.01,Consumer Durables Loan,0.87,merchant_offer_8,0.63,0.51,6,Retirees
+1080,2767.93,Consumer Durables Loan,0.66,merchant_offer_8,0.48,0.47,8,Retirees
+588,17972.24,Consumer Durables Loan,0.51,merchant_offer_8,0.53,0.56,4,Retirees
+1040,9684.8,Travel Loan,0.51,merchant_offer_8,0.66,0.85,6,Retirees
+4863,21700.47,Consumer Durables Loan,0.73,merchant_offer_8,0.7,0.82,6,Retirees
+13694,2770.67,Consumer Durables Loan,0.66,merchant_offer_8,0.67,0.76,9,Retirees
+2320,11513.01,Travel Loan,0.61,merchant_offer_8,0.75,0.69,8,Retirees
+834,2458.08,Travel Loan,0.97,merchant_offer_8,0.63,0.52,6,Retirees
+3414,11926.3,Home Renovation Loan,0.66,merchant_offer_8,0.53,0.46,8,Retirees
+3192,4607.91,Travel Loan,0.52,merchant_offer_8,0.98,0.51,7,Retirees
+5263,17458.13,Consumer Durables Loan,0.53,merchant_offer_8,0.5,0.99,10,Retirees
+9721,4524.73,Debt Consolidation Loan,0.56,merchant_offer_8,0.49,0.66,7,Retirees
+655,4579.36,Consumer Durables Loan,0.73,merchant_offer_8,0.97,0.55,9,Retirees
+11004,17851.01,Consumer Durables Loan,0.59,merchant_offer_8,0.65,0.72,7,Retirees
+254,18593.31,Travel Loan,0.48,merchant_offer_8,0.56,0.98,10,Retirees
+9930,7941.13,Home Renovation Loan,0.66,merchant_offer_9,0.85,0.66,7,Retirees
+1062,6690.41,Travel Loan,0.86,merchant_offer_9,0.77,0.89,8,Retirees
+2184,15029.48,Consumer Durables Loan,0.53,merchant_offer_9,0.78,0.77,9,Retirees
+8636,18718.25,Consumer Durables Loan,0.54,merchant_offer_9,0.51,0.77,8,Retirees
+6039,1249.79,Consumer Durables Loan,0.64,merchant_offer_9,0.69,0.58,8,Retirees
+2374,28055.07,Consumer Durables Loan,0.65,merchant_offer_9,0.91,0.81,7,Retirees
+335,3665.33,Consumer Durables Loan,0.65,merchant_offer_9,0.52,0.62,6,Retirees
+615,14216.19,Home Renovation Loan,0.83,merchant_offer_9,0.63,0.49,8,Retirees
+984,1259.42,Consumer Durables Loan,0.66,merchant_offer_9,0.74,0.55,9,Retirees
+3896,6656.6,Travel Loan,0.54,merchant_offer_9,0.53,0.76,8,Retirees
+334,13330.16,Travel Loan,0.89,merchant_offer_9,0.56,0.84,4,Retirees
+1182,3110.41,Consumer Durables Loan,0.51,merchant_offer_9,0.82,0.77,7,Retirees
+2540,8772.22,Travel Loan,0.59,merchant_offer_10,0.67,0.96,7,Retirees
+231,10530.36,Travel Loan,0.68,merchant_offer_10,0.68,0.65,6,Retirees
+1914,13074.57,Consumer Durables Loan,0.84,merchant_offer_10,0.61,0.79,7,Retirees
+2815,1757.49,Consumer Durables Loan,0.58,merchant_offer_10,0.96,0.67,10,Retirees
+3517,1780.89,Home Renovation Loan,0.46,merchant_offer_10,0.53,0.51,8,Retirees
+4493,22835.57,Consumer Durables Loan,0.58,merchant_offer_10,0.57,0.79,8,Retirees
+13044,17140.79,Consumer Durables Loan,0.45,merchant_offer_0,0.77,0.8,10,SMB Owners
+2592,7420.73,Consumer Durables Loan,0.6,merchant_offer_0,0.66,0.96,9,SMB Owners
+272,15988.78,Consumer Durables Loan,0.88,merchant_offer_0,0.72,0.93,5,SMB Owners
+1777,7133.83,Home Renovation Loan,0.74,merchant_offer_0,0.69,0.67,7,SMB Owners
+5002,11829.0,Consumer Durables Loan,0.73,merchant_offer_0,0.59,0.94,6,SMB Owners
+3037,19019.14,Travel Loan,0.82,merchant_offer_0,0.54,0.59,5,SMB Owners
+1271,24921.62,Travel Loan,0.89,merchant_offer_0,0.87,0.56,5,SMB Owners
+3056,408.67,Consumer Durables Loan,0.86,merchant_offer_1,0.82,0.78,6,SMB Owners
+3640,1121.29,Travel Loan,0.88,merchant_offer_1,0.71,0.48,8,SMB Owners
+441,1631.32,Travel Loan,0.54,merchant_offer_1,0.74,0.99,9,SMB Owners
+3173,474.74,Consumer Durables Loan,0.88,merchant_offer_1,0.55,0.74,6,SMB Owners
+3601,11454.94,Travel Loan,0.5,merchant_offer_1,0.99,0.52,6,SMB Owners
+12378,2410.41,Consumer Durables Loan,0.58,merchant_offer_1,0.83,0.54,5,SMB Owners
+2125,12224.66,Consumer Durables Loan,0.68,merchant_offer_1,0.83,0.46,9,SMB Owners
+6764,17510.15,Consumer Durables Loan,0.75,merchant_offer_1,0.91,0.66,9,SMB Owners
+1220,8253.33,Home Renovation Loan,0.92,merchant_offer_1,0.41,0.74,10,SMB Owners
+4360,14317.34,Consumer Durables Loan,0.89,merchant_offer_1,0.91,0.73,6,SMB Owners
+3890,6434.56,Consumer Durables Loan,0.55,merchant_offer_1,0.73,0.85,7,SMB Owners
+731,8932.86,Consumer Durables Loan,0.88,merchant_offer_1,0.49,0.6,8,SMB Owners
+13134,10205.26,Consumer Durables Loan,0.98,merchant_offer_1,0.84,0.75,8,SMB Owners
+3938,8299.94,Travel Loan,0.96,merchant_offer_1,0.62,0.69,9,SMB Owners
+4188,22359.56,Travel Loan,0.99,merchant_offer_1,0.42,0.79,7,SMB Owners
+2739,22640.01,Travel Loan,0.85,merchant_offer_1,0.86,0.53,8,SMB Owners
+4212,3546.32,Travel Loan,0.52,merchant_offer_2,0.86,0.67,9,SMB Owners
+2425,27145.19,Consumer Durables Loan,0.77,merchant_offer_2,0.43,0.97,7,SMB Owners
+7195,5567.07,Travel Loan,0.7,merchant_offer_2,0.54,0.59,10,SMB Owners
+1390,902.39,Consumer Durables Loan,0.69,merchant_offer_2,0.57,0.7,10,SMB Owners
+4638,2552.83,Consumer Durables Loan,0.59,merchant_offer_2,0.72,0.49,8,SMB Owners
+2796,22540.42,Travel Loan,0.58,merchant_offer_2,0.61,0.68,4,SMB Owners
+605,478.78,Home Renovation Loan,0.88,merchant_offer_2,0.65,0.69,9,SMB Owners
+11371,5013.22,Home Renovation Loan,0.94,merchant_offer_2,0.7,0.57,7,SMB Owners
+4201,7132.36,Travel Loan,0.77,merchant_offer_2,0.5,0.62,9,SMB Owners
+127,23073.91,Consumer Durables Loan,0.75,merchant_offer_2,0.48,0.55,9,SMB Owners
+202,11943.27,Consumer Durables Loan,0.9,merchant_offer_2,0.62,0.59,9,SMB Owners
+2686,9879.44,Consumer Durables Loan,0.91,merchant_offer_2,0.91,0.71,5,SMB Owners
+3671,3261.27,Consumer Durables Loan,0.91,merchant_offer_2,0.41,0.82,9,SMB Owners
+8502,7706.6,Consumer Durables Loan,0.99,merchant_offer_2,0.47,0.94,6,SMB Owners
+876,379.72,Travel Loan,0.74,merchant_offer_2,0.81,0.47,6,SMB Owners
+7862,4314.94,Consumer Durables Loan,0.71,merchant_offer_3,0.56,0.52,8,SMB Owners
+4231,8436.61,Consumer Durables Loan,0.95,merchant_offer_3,0.79,0.86,9,SMB Owners
+453,21268.91,Consumer Durables Loan,0.77,merchant_offer_3,0.84,0.61,7,SMB Owners
+1779,19466.18,Travel Loan,0.71,merchant_offer_3,0.92,0.71,7,SMB Owners
+9933,1446.89,Consumer Durables Loan,0.59,merchant_offer_3,0.55,0.69,8,SMB Owners
+3297,2241.43,Travel Loan,0.79,merchant_offer_3,0.54,0.68,10,SMB Owners
+3689,16910.88,Consumer Durables Loan,0.56,merchant_offer_3,0.97,0.74,8,SMB Owners
+242,1790.79,Consumer Durables Loan,0.81,merchant_offer_3,0.71,0.85,6,SMB Owners
+2982,7831.88,Consumer Durables Loan,0.84,merchant_offer_3,0.83,0.79,4,SMB Owners
+3627,16090.28,Consumer Durables Loan,0.62,merchant_offer_3,0.82,0.95,6,SMB Owners
+1228,23.47,Consumer Durables Loan,0.5,merchant_offer_3,0.74,0.69,7,SMB Owners
+1231,24255.5,Consumer Durables Loan,0.96,merchant_offer_3,0.44,0.59,6,SMB Owners
+192,13053.98,Travel Loan,0.92,merchant_offer_3,0.76,0.61,8,SMB Owners
+5376,5385.3,Travel Loan,0.75,merchant_offer_3,0.53,0.64,4,SMB Owners
+928,19343.97,Home Renovation Loan,0.75,merchant_offer_3,0.69,0.74,9,SMB Owners
+537,5138.6,Consumer Durables Loan,0.67,merchant_offer_3,0.56,0.58,9,SMB Owners
+11331,2592.17,Consumer Durables Loan,0.83,merchant_offer_3,0.78,0.71,9,SMB Owners
+1864,2319.39,Travel Loan,0.57,merchant_offer_3,0.54,0.76,6,SMB Owners
+4246,1763.6,Consumer Durables Loan,0.48,merchant_offer_4,0.98,0.64,9,SMB Owners
+2644,25629.4,Consumer Durables Loan,0.89,merchant_offer_4,0.59,0.88,10,SMB Owners
+503,11866.51,Travel Loan,0.8,merchant_offer_4,0.69,0.55,10,SMB Owners
+10145,17823.78,Home Renovation Loan,0.82,merchant_offer_4,0.93,0.68,6,SMB Owners
+2476,10801.64,Consumer Durables Loan,0.58,merchant_offer_4,0.45,0.81,7,SMB Owners
+3339,14650.12,Consumer Durables Loan,0.62,merchant_offer_4,0.52,0.41,5,SMB Owners
+255,25074.58,Consumer Durables Loan,0.99,merchant_offer_4,1.0,0.97,9,SMB Owners
+12577,8205.53,Consumer Durables Loan,0.86,merchant_offer_4,0.62,0.43,9,SMB Owners
+714,94.8,Travel Loan,0.55,merchant_offer_4,0.58,0.75,8,SMB Owners
+264,6032.22,Travel Loan,0.8,merchant_offer_4,0.5,0.52,6,SMB Owners
+11701,12000.42,Travel Loan,0.46,merchant_offer_4,0.52,0.86,9,SMB Owners
+6468,326.92,Consumer Durables Loan,0.85,merchant_offer_4,0.47,0.98,5,SMB Owners
+1059,9094.82,Travel Loan,0.81,merchant_offer_4,0.61,0.48,5,SMB Owners
+3036,22165.72,Consumer Durables Loan,0.84,merchant_offer_4,0.81,0.54,9,SMB Owners
+4929,14676.81,Consumer Durables Loan,0.59,merchant_offer_4,0.89,0.78,6,SMB Owners
+4915,977.28,Consumer Durables Loan,0.97,merchant_offer_4,0.97,0.77,8,SMB Owners
+1525,1703.21,Travel Loan,0.43,merchant_offer_5,0.63,0.63,7,SMB Owners
+2157,25835.41,Travel Loan,0.6,merchant_offer_5,0.58,0.74,7,SMB Owners
+798,19184.98,Consumer Durables Loan,0.51,merchant_offer_5,0.99,0.69,9,SMB Owners
+2277,15958.97,Consumer Durables Loan,0.44,merchant_offer_5,0.55,0.8,6,SMB Owners
+4112,28354.88,Consumer Durables Loan,0.69,merchant_offer_5,0.98,0.81,9,SMB Owners
+2013,5005.88,Consumer Durables Loan,0.41,merchant_offer_5,0.7,0.76,7,SMB Owners
+2308,270.68,Consumer Durables Loan,0.54,merchant_offer_5,0.52,0.81,8,SMB Owners
+1133,14074.42,Consumer Durables Loan,0.53,merchant_offer_5,0.53,0.53,8,SMB Owners
+4353,1604.26,Consumer Durables Loan,0.99,merchant_offer_5,0.57,0.73,4,SMB Owners
+4258,27049.72,Consumer Durables Loan,0.67,merchant_offer_5,0.56,0.82,4,SMB Owners
+4684,8631.75,Home Renovation Loan,0.8,merchant_offer_5,0.91,0.86,8,SMB Owners
+1946,7031.5,Travel Loan,0.54,merchant_offer_5,0.93,0.66,6,SMB Owners
+3824,12123.88,Travel Loan,0.56,merchant_offer_5,0.68,0.66,6,SMB Owners
+370,13796.4,Consumer Durables Loan,0.41,merchant_offer_5,0.57,0.49,7,SMB Owners
+4137,22373.46,Consumer Durables Loan,0.6,merchant_offer_6,0.42,0.9,8,SMB Owners
+4532,19445.73,Consumer Durables Loan,0.9,merchant_offer_6,0.94,0.88,9,SMB Owners
+295,7318.01,Travel Loan,0.92,merchant_offer_6,0.64,0.56,7,SMB Owners
+4553,3539.92,Consumer Durables Loan,0.74,merchant_offer_6,0.41,0.66,4,SMB Owners
+4495,26845.94,Travel Loan,0.56,merchant_offer_6,0.58,0.62,9,SMB Owners
+457,8662.82,Travel Loan,0.95,merchant_offer_6,0.59,0.66,9,SMB Owners
+1296,16495.17,Consumer Durables Loan,0.88,merchant_offer_6,0.5,0.76,9,SMB Owners
+2493,13143.25,Debt Consolidation Loan,0.42,merchant_offer_6,0.54,0.56,7,SMB Owners
+1157,2481.85,Consumer Durables Loan,0.78,merchant_offer_6,0.89,0.76,10,SMB Owners
+3874,904.52,Home Renovation Loan,0.6,merchant_offer_6,0.56,0.7,7,SMB Owners
+1098,16991.6,Consumer Durables Loan,0.66,merchant_offer_6,0.74,0.85,9,SMB Owners
+4533,8475.4,Travel Loan,0.64,merchant_offer_6,0.85,0.94,6,SMB Owners
+2569,25274.56,Consumer Durables Loan,0.62,merchant_offer_6,0.48,0.45,7,SMB Owners
+4091,8120.19,Consumer Durables Loan,0.6,merchant_offer_6,0.55,0.69,7,SMB Owners
+2363,15301.78,Travel Loan,0.7,merchant_offer_7,0.66,0.71,8,SMB Owners
+497,18488.81,Consumer Durables Loan,0.6,merchant_offer_7,0.84,0.9,9,SMB Owners
+3970,11885.53,Consumer Durables Loan,0.5,merchant_offer_7,0.69,0.58,7,SMB Owners
+4507,9103.57,Consumer Durables Loan,0.83,merchant_offer_7,0.9,0.76,5,SMB Owners
+4522,19409.2,Consumer Durables Loan,0.93,merchant_offer_7,0.68,0.53,6,SMB Owners
+3135,6888.56,Consumer Durables Loan,0.66,merchant_offer_7,0.97,0.83,9,SMB Owners
+5478,6749.06,Travel Loan,0.57,merchant_offer_7,0.68,0.8,4,SMB Owners
+4094,8003.58,Travel Loan,0.81,merchant_offer_7,0.4,0.89,8,SMB Owners
+5223,1804.34,Consumer Durables Loan,0.78,merchant_offer_7,0.82,0.84,4,SMB Owners
+1811,14399.02,Consumer Durables Loan,0.57,merchant_offer_7,0.88,0.58,6,SMB Owners
+5117,3097.56,Travel Loan,0.88,merchant_offer_7,0.67,0.84,7,SMB Owners
+3319,4382.34,Consumer Durables Loan,0.57,merchant_offer_7,0.56,0.52,8,SMB Owners
+79,8304.17,Consumer Durables Loan,0.51,merchant_offer_7,0.56,0.5,8,SMB Owners
+3984,7809.91,Home Renovation Loan,0.74,merchant_offer_7,0.71,0.7,6,SMB Owners
+3225,29517.9,Travel Loan,0.45,merchant_offer_8,0.85,0.45,9,SMB Owners
+1031,25112.08,Consumer Durables Loan,0.53,merchant_offer_8,0.8,0.9,7,SMB Owners
+1669,15977.16,Consumer Durables Loan,0.67,merchant_offer_8,0.57,0.99,4,SMB Owners
+487,4289.76,Consumer Durables Loan,0.71,merchant_offer_8,0.72,0.88,9,SMB Owners
+2616,28174.71,Travel Loan,0.86,merchant_offer_8,0.42,0.53,6,SMB Owners
+2911,11373.82,Travel Loan,0.99,merchant_offer_8,0.74,0.48,8,SMB Owners
+4115,2018.44,Travel Loan,0.6,merchant_offer_8,0.53,0.86,9,SMB Owners
+2585,9353.66,Consumer Durables Loan,0.67,merchant_offer_8,0.48,0.69,7,SMB Owners
+2626,51.54,Consumer Durables Loan,0.48,merchant_offer_8,0.71,0.98,9,SMB Owners
+2312,5963.6,Consumer Durables Loan,0.67,merchant_offer_8,0.88,0.93,7,SMB Owners
+1522,935.31,Home Renovation Loan,0.93,merchant_offer_8,0.99,0.54,7,SMB Owners
+2259,8736.13,Home Renovation Loan,0.97,merchant_offer_8,0.89,0.65,9,SMB Owners
+1999,4997.18,Consumer Durables Loan,0.66,merchant_offer_8,0.91,0.81,9,SMB Owners
+2498,18319.13,Travel Loan,0.82,merchant_offer_8,0.72,0.76,6,SMB Owners
+861,12536.69,Consumer Durables Loan,0.81,merchant_offer_8,0.67,0.75,9,SMB Owners
+1353,17176.59,Consumer Durables Loan,0.61,merchant_offer_8,0.84,0.69,10,SMB Owners
+1039,3477.87,Consumer Durables Loan,0.58,merchant_offer_9,0.64,0.77,8,SMB Owners
+3894,1926.39,Travel Loan,0.53,merchant_offer_9,0.44,0.53,9,SMB Owners
+1762,2001.21,Consumer Durables Loan,0.71,merchant_offer_9,0.54,0.92,8,SMB Owners
+5323,14540.32,Consumer Durables Loan,0.57,merchant_offer_9,0.88,0.5,5,SMB Owners
+900,22158.5,Travel Loan,0.77,merchant_offer_9,0.54,0.71,7,SMB Owners
+5159,6056.01,Consumer Durables Loan,0.88,merchant_offer_9,0.55,0.76,10,SMB Owners
+6255,22037.36,Consumer Durables Loan,0.76,merchant_offer_9,0.98,0.75,8,SMB Owners
+8392,8500.2,Consumer Durables Loan,0.74,merchant_offer_9,0.54,0.78,9,SMB Owners
+597,2598.06,Consumer Durables Loan,0.79,merchant_offer_9,0.53,0.77,7,SMB Owners
+3763,2449.02,Consumer Durables Loan,0.7,merchant_offer_9,0.52,0.85,6,SMB Owners
+4740,3781.71,Home Renovation Loan,0.71,merchant_offer_9,0.74,0.46,10,SMB Owners
+3581,8751.16,Travel Loan,0.79,merchant_offer_9,0.83,0.7,10,SMB Owners
+810,268.0,Consumer Durables Loan,0.46,merchant_offer_10,0.59,0.7,7,SMB Owners
+4116,11964.55,Consumer Durables Loan,0.85,merchant_offer_10,0.79,0.68,9,SMB Owners
+1322,5732.18,Consumer Durables Loan,0.76,merchant_offer_10,0.72,0.56,6,SMB Owners
+5128,1038.54,Travel Loan,0.7,merchant_offer_10,0.95,0.44,10,SMB Owners
+2124,19791.05,Consumer Durables Loan,0.68,merchant_offer_10,0.48,0.81,6,SMB Owners
+451,7757.71,Travel Loan,0.51,merchant_offer_10,0.91,0.66,10,SMB Owners
+508,6461.44,Travel Loan,0.85,merchant_offer_10,0.92,0.73,7,SMB Owners
+87,8653.02,Consumer Durables Loan,0.51,merchant_offer_0,0.78,0.48,5,Young Adults
+2779,9225.75,Consumer Durables Loan,0.57,merchant_offer_0,0.61,0.97,8,Young Adults
+12750,3703.08,Home Renovation Loan,0.83,merchant_offer_0,0.62,0.56,7,Young Adults
+3794,8893.19,Consumer Durables Loan,0.52,merchant_offer_0,0.59,0.88,9,Young Adults
+4808,28632.7,Consumer Durables Loan,0.98,merchant_offer_0,0.95,0.67,8,Young Adults
+1616,5939.76,Travel Loan,0.92,merchant_offer_0,0.75,0.48,9,Young Adults
+1011,5250.95,Travel Loan,0.54,merchant_offer_0,0.91,0.7,9,Young Adults
+13113,3604.8,Travel Loan,0.57,merchant_offer_1,0.55,0.91,7,Young Adults
+2880,3967.1,Travel Loan,0.58,merchant_offer_1,0.5,0.6,8,Young Adults
+7796,6415.88,Consumer Durables Loan,0.95,merchant_offer_1,0.67,0.81,7,Young Adults
+471,7631.02,Travel Loan,0.72,merchant_offer_1,0.55,0.89,6,Young Adults
+1836,15258.87,Consumer Durables Loan,0.57,merchant_offer_1,0.53,0.4,9,Young Adults
+4069,10966.01,Travel Loan,0.65,merchant_offer_1,0.68,0.9,6,Young Adults
+3439,12547.65,Travel Loan,0.94,merchant_offer_1,0.98,0.45,9,Young Adults
+4763,12284.93,Consumer Durables Loan,0.92,merchant_offer_1,0.96,0.86,5,Young Adults
+466,17938.5,Consumer Durables Loan,0.86,merchant_offer_1,0.51,0.78,10,Young Adults
+652,24151.1,Travel Loan,0.48,merchant_offer_1,0.84,0.52,9,Young Adults
+219,440.11,Consumer Durables Loan,0.49,merchant_offer_1,0.84,0.69,9,Young Adults
+12396,16889.19,Consumer Durables Loan,0.44,merchant_offer_1,0.6,0.61,9,Young Adults
+1169,18863.8,Home Renovation Loan,0.79,merchant_offer_1,0.47,0.63,6,Young Adults
+3829,1839.4,Consumer Durables Loan,0.67,merchant_offer_1,0.59,0.88,10,Young Adults
+2121,26214.9,Consumer Durables Loan,0.73,merchant_offer_1,0.46,0.65,7,Young Adults
+5233,2051.99,Consumer Durables Loan,0.52,merchant_offer_1,0.77,0.73,8,Young Adults
+4265,9487.12,Travel Loan,0.51,merchant_offer_2,0.89,0.53,5,Young Adults
+2713,4079.43,Travel Loan,0.65,merchant_offer_2,0.42,0.87,8,Young Adults
+42,8990.78,Consumer Durables Loan,0.57,merchant_offer_2,0.75,0.5,6,Young Adults
+2548,9123.32,Travel Loan,0.77,merchant_offer_2,0.83,0.85,8,Young Adults
+309,12742.15,Consumer Durables Loan,0.58,merchant_offer_2,0.67,0.63,5,Young Adults
+5245,24139.34,Consumer Durables Loan,0.95,merchant_offer_2,0.89,0.65,9,Young Adults
+4382,20377.51,Travel Loan,0.65,merchant_offer_2,0.86,0.74,9,Young Adults
+3167,22337.92,Consumer Durables Loan,0.5,merchant_offer_2,0.75,0.75,6,Young Adults
+2921,2648.6,Consumer Durables Loan,0.7,merchant_offer_2,0.5,0.83,7,Young Adults
+826,2699.46,Travel Loan,0.74,merchant_offer_2,0.61,0.83,9,Young Adults
+1211,24637.35,Consumer Durables Loan,0.6,merchant_offer_2,0.43,0.5,7,Young Adults
+3151,6165.44,Consumer Durables Loan,0.88,merchant_offer_2,0.93,0.67,7,Young Adults
+4345,8432.86,Consumer Durables Loan,0.46,merchant_offer_2,0.69,0.81,8,Young Adults
+638,1421.3,Consumer Durables Loan,0.61,merchant_offer_2,0.58,0.73,9,Young Adults
+4270,11826.99,Home Renovation Loan,0.6,merchant_offer_2,0.91,0.67,7,Young Adults
+12144,19520.7,Consumer Durables Loan,0.54,merchant_offer_3,0.61,0.58,6,Young Adults
+3568,3107.43,Travel Loan,0.76,merchant_offer_3,0.5,0.8,8,Young Adults
+2141,24703.78,Consumer Durables Loan,0.85,merchant_offer_3,0.42,0.72,8,Young Adults
+6567,28946.96,Consumer Durables Loan,0.44,merchant_offer_3,0.58,0.78,9,Young Adults
+679,2894.75,Travel Loan,0.72,merchant_offer_3,0.75,0.75,9,Young Adults
+2232,3840.54,Travel Loan,0.68,merchant_offer_3,0.61,0.6,9,Young Adults
+2038,6820.48,Consumer Durables Loan,0.96,merchant_offer_3,0.48,0.93,10,Young Adults
+1445,8202.74,Travel Loan,0.5,merchant_offer_3,0.58,0.62,10,Young Adults
+5016,6279.3,Consumer Durables Loan,0.8,merchant_offer_3,0.86,0.76,5,Young Adults
+2709,7355.86,Consumer Durables Loan,0.78,merchant_offer_3,0.89,0.54,10,Young Adults
+1165,4727.84,Consumer Durables Loan,0.7,merchant_offer_3,0.68,0.81,10,Young Adults
+414,564.77,Consumer Durables Loan,0.41,merchant_offer_3,0.85,0.75,8,Young Adults
+3026,25157.78,Travel Loan,0.91,merchant_offer_3,0.79,0.87,7,Young Adults
+5461,9364.6,Consumer Durables Loan,0.52,merchant_offer_3,0.44,0.67,8,Young Adults
+4293,26112.19,Consumer Durables Loan,0.42,merchant_offer_3,0.88,0.74,7,Young Adults
+5204,9336.99,Consumer Durables Loan,0.58,merchant_offer_3,0.41,0.97,8,Young Adults
+816,9297.9,Home Renovation Loan,0.65,merchant_offer_3,0.58,0.74,5,Young Adults
+2501,6055.72,Consumer Durables Loan,0.87,merchant_offer_4,0.63,0.46,7,Young Adults
+1056,9230.53,Travel Loan,0.66,merchant_offer_4,0.62,0.76,7,Young Adults
+439,383.85,Consumer Durables Loan,0.74,merchant_offer_4,0.7,0.64,5,Young Adults
+489,2330.31,Consumer Durables Loan,0.83,merchant_offer_4,0.44,0.88,9,Young Adults
+3356,10298.9,Travel Loan,0.63,merchant_offer_4,0.89,0.91,8,Young Adults
+688,20718.99,Travel Loan,0.85,merchant_offer_4,0.61,0.74,10,Young Adults
+5333,3181.13,Consumer Durables Loan,0.57,merchant_offer_4,0.55,0.75,9,Young Adults
+429,4743.35,Consumer Durables Loan,0.84,merchant_offer_4,0.69,0.97,7,Young Adults
+3425,15542.5,Travel Loan,0.66,merchant_offer_4,0.41,0.6,7,Young Adults
+10040,160.79,Consumer Durables Loan,0.6,merchant_offer_4,0.69,0.96,9,Young Adults
+2203,10180.57,Consumer Durables Loan,0.9,merchant_offer_4,0.78,0.54,9,Young Adults
+808,13305.91,Consumer Durables Loan,0.89,merchant_offer_4,0.81,0.89,7,Young Adults
+268,13939.59,Consumer Durables Loan,0.87,merchant_offer_4,0.71,0.93,10,Young Adults
+4405,9717.88,Consumer Durables Loan,0.81,merchant_offer_4,0.84,0.7,10,Young Adults
+77,20673.76,Home Renovation Loan,0.53,merchant_offer_4,0.57,0.73,6,Young Adults
+2481,3615.23,Travel Loan,0.47,merchant_offer_4,0.96,0.44,8,Young Adults
+1759,245.81,Consumer Durables Loan,0.93,merchant_offer_5,0.7,0.66,10,Young Adults
+513,3087.75,Consumer Durables Loan,0.59,merchant_offer_5,0.88,0.99,5,Young Adults
+4937,935.82,Home Renovation Loan,0.9,merchant_offer_5,0.55,0.62,8,Young Adults
+2469,14922.24,Consumer Durables Loan,0.53,merchant_offer_5,0.8,0.58,9,Young Adults
+2759,7906.56,Consumer Durables Loan,0.77,merchant_offer_5,0.79,0.98,7,Young Adults
+1754,13217.1,Consumer Durables Loan,0.44,merchant_offer_5,0.96,0.85,8,Young Adults
+4473,28470.0,Travel Loan,0.93,merchant_offer_5,0.54,0.62,9,Young Adults
+4627,8996.27,Travel Loan,0.84,merchant_offer_5,0.68,0.52,10,Young Adults
+887,27740.21,Consumer Durables Loan,0.72,merchant_offer_5,0.71,0.84,7,Young Adults
+886,6585.38,Travel Loan,0.91,merchant_offer_5,0.78,0.74,5,Young Adults
+1388,19523.39,Consumer Durables Loan,0.74,merchant_offer_5,0.68,0.47,8,Young Adults
+778,11124.37,Travel Loan,0.47,merchant_offer_5,0.84,0.9,9,Young Adults
+4772,17162.2,Consumer Durables Loan,0.79,merchant_offer_5,0.5,0.5,9,Young Adults
+2235,8563.72,Consumer Durables Loan,0.58,merchant_offer_5,0.85,0.73,7,Young Adults
+1938,3716.65,Consumer Durables Loan,0.81,merchant_offer_5,0.67,0.67,10,Young Adults
+3906,27762.19,Travel Loan,0.41,merchant_offer_6,0.44,0.77,9,Young Adults
+1885,80.66,Consumer Durables Loan,0.85,merchant_offer_6,0.82,0.95,7,Young Adults
+13539,4805.46,Travel Loan,0.6,merchant_offer_6,0.81,0.89,4,Young Adults
+4587,13521.03,Consumer Durables Loan,0.47,merchant_offer_6,0.47,0.54,6,Young Adults
+4568,3704.09,Travel Loan,0.51,merchant_offer_6,0.49,0.85,6,Young Adults
+4340,1652.62,Consumer Durables Loan,0.96,merchant_offer_6,0.83,0.74,9,Young Adults
+954,17994.45,Home Renovation Loan,0.81,merchant_offer_6,0.75,0.6,7,Young Adults
+339,4822.57,Consumer Durables Loan,0.98,merchant_offer_6,0.87,0.58,7,Young Adults
+742,18692.69,Consumer Durables Loan,0.45,merchant_offer_6,0.54,0.71,9,Young Adults
+5366,18574.23,Consumer Durables Loan,0.91,merchant_offer_6,0.5,0.61,7,Young Adults
+2343,4161.31,Consumer Durables Loan,0.63,merchant_offer_6,0.9,0.75,9,Young Adults
+3522,10126.73,Travel Loan,0.5,merchant_offer_6,0.66,0.74,9,Young Adults
+1478,3561.65,Consumer Durables Loan,0.68,merchant_offer_6,0.48,0.77,10,Young Adults
+1244,15846.27,Consumer Durables Loan,0.78,merchant_offer_6,0.55,0.84,8,Young Adults
+11683,7075.95,Travel Loan,0.86,merchant_offer_7,0.63,0.65,6,Young Adults
+4663,22136.66,Travel Loan,0.57,merchant_offer_7,0.86,0.52,7,Young Adults
+3858,8054.59,Consumer Durables Loan,0.82,merchant_offer_7,0.71,0.74,8,Young Adults
+1253,19350.61,Home Renovation Loan,0.73,merchant_offer_7,0.9,0.66,5,Young Adults
+1913,9765.27,Travel Loan,0.85,merchant_offer_7,0.5,0.7,4,Young Adults
+1030,24798.87,Consumer Durables Loan,0.81,merchant_offer_7,0.94,0.85,7,Young Adults
+4167,1109.52,Consumer Durables Loan,0.46,merchant_offer_7,0.73,0.46,7,Young Adults
+19,12036.57,Consumer Durables Loan,0.56,merchant_offer_7,0.46,0.85,5,Young Adults
+13095,3954.6,Consumer Durables Loan,0.7,merchant_offer_7,0.77,0.74,6,Young Adults
+4328,4229.96,Consumer Durables Loan,0.57,merchant_offer_7,0.92,0.87,8,Young Adults
+3458,29460.62,Travel Loan,0.89,merchant_offer_7,0.61,0.55,10,Young Adults
+2489,27974.84,Consumer Durables Loan,0.65,merchant_offer_7,0.53,0.56,5,Young Adults
+2428,29705.6,Consumer Durables Loan,0.5,merchant_offer_7,0.59,0.84,5,Young Adults
+4821,3497.09,Home Renovation Loan,0.84,merchant_offer_8,0.58,0.57,5,Young Adults
+4251,8567.56,Travel Loan,0.56,merchant_offer_8,0.87,0.65,4,Young Adults
+10479,25676.96,Consumer Durables Loan,0.82,merchant_offer_8,0.82,0.44,9,Young Adults
+8506,17889.19,Consumer Durables Loan,0.85,merchant_offer_8,0.81,0.7,7,Young Adults
+7672,18007.31,Travel Loan,0.48,merchant_offer_8,0.83,0.54,9,Young Adults
+2117,12476.93,Consumer Durables Loan,0.86,merchant_offer_8,0.86,0.79,8,Young Adults
+2715,3214.54,Travel Loan,0.74,merchant_offer_8,0.71,0.51,7,Young Adults
+5433,12544.2,Travel Loan,0.84,merchant_offer_8,0.56,0.93,8,Young Adults
+519,21425.96,Travel Loan,0.87,merchant_offer_8,0.55,0.5,6,Young Adults
+666,7892.91,Travel Loan,0.9,merchant_offer_8,0.82,0.78,8,Young Adults
+996,7933.77,Consumer Durables Loan,0.61,merchant_offer_8,0.74,0.65,6,Young Adults
+3573,544.83,Consumer Durables Loan,0.7,merchant_offer_8,0.76,0.4,9,Young Adults
+1202,7708.08,Consumer Durables Loan,0.51,merchant_offer_8,0.8,0.63,10,Young Adults
+2536,8411.88,Consumer Durables Loan,0.74,merchant_offer_8,0.67,0.42,9,Young Adults
+4862,4906.61,Consumer Durables Loan,0.64,merchant_offer_8,0.9,0.72,4,Young Adults
+2555,15540.71,Travel Loan,0.84,merchant_offer_8,0.78,0.41,6,Young Adults
+5249,1007.65,Home Renovation Loan,0.74,merchant_offer_8,0.68,0.87,9,Young Adults
+4944,25255.37,Travel Loan,0.7,merchant_offer_9,0.6,0.8,9,Young Adults
+10095,29891.67,Consumer Durables Loan,0.95,merchant_offer_9,0.49,0.76,9,Young Adults
+2560,29724.92,Consumer Durables Loan,0.74,merchant_offer_9,0.65,0.52,9,Young Adults
+7683,10645.57,Consumer Durables Loan,0.8,merchant_offer_9,0.81,0.69,5,Young Adults
+626,3079.02,Travel Loan,0.79,merchant_offer_9,0.46,0.76,8,Young Adults
+2475,8341.69,Consumer Durables Loan,0.76,merchant_offer_9,0.58,0.67,9,Young Adults
+3382,13198.23,Travel Loan,0.6,merchant_offer_9,0.87,0.67,7,Young Adults
+3515,13500.1,Consumer Durables Loan,0.82,merchant_offer_9,0.74,0.49,8,Young Adults
+1900,22886.16,Travel Loan,0.96,merchant_offer_9,0.51,0.59,9,Young Adults
+2074,9781.37,Consumer Durables Loan,0.56,merchant_offer_9,0.68,0.77,10,Young Adults
+256,5755.65,Consumer Durables Loan,0.59,merchant_offer_9,0.41,0.43,8,Young Adults
+2226,1711.11,Home Renovation Loan,0.61,merchant_offer_9,0.42,0.65,5,Young Adults
+4764,15277.64,Consumer Durables Loan,0.53,merchant_offer_9,0.64,0.72,9,Young Adults
+2324,23523.44,Travel Loan,0.59,merchant_offer_10,0.75,0.69,8,Young Adults
+12991,19113.8,Travel Loan,0.84,merchant_offer_10,0.93,0.79,7,Young Adults
+2102,10300.66,Travel Loan,0.92,merchant_offer_10,0.62,0.87,9,Young Adults
+3821,15821.26,Consumer Durables Loan,0.81,merchant_offer_10,0.69,0.74,7,Young Adults
+138,29001.16,Consumer Durables Loan,0.6,merchant_offer_10,0.52,0.5,7,Young Adults
+3102,19570.93,Consumer Durables Loan,0.56,merchant_offer_10,0.43,0.67,8,Young Adults
+2156,17009.89,Consumer Durables Loan,0.74,merchant_offer_10,0.52,0.71,10,Young Adults
+4416,29304.8,Travel Loan,0.47,merchant_offer_0,0.58,0.49,4,Rural Affluence
+3985,11380.4,Consumer Durables Loan,0.61,merchant_offer_0,0.9,0.88,9,Rural Affluence
+967,6482.51,Home Renovation Loan,0.5,merchant_offer_0,0.55,0.87,10,Rural Affluence
+1359,16452.72,Consumer Durables Loan,0.68,merchant_offer_0,0.57,0.85,7,Rural Affluence
+5727,7423.15,Consumer Durables Loan,0.45,merchant_offer_0,0.56,0.64,7,Rural Affluence
+4789,14772.69,Consumer Durables Loan,0.65,merchant_offer_0,0.76,0.44,8,Rural Affluence
+3249,18146.07,Travel Loan,0.97,merchant_offer_0,0.75,0.81,9,Rural Affluence
+6196,5513.48,Travel Loan,0.82,merchant_offer_1,0.61,0.77,6,Rural Affluence
+4901,6656.29,Consumer Durables Loan,0.73,merchant_offer_1,0.83,0.5,6,Rural Affluence
+7186,11220.47,Consumer Durables Loan,0.54,merchant_offer_1,0.95,0.71,8,Rural Affluence
+3187,7507.32,Travel Loan,0.48,merchant_offer_1,0.84,0.88,5,Rural Affluence
+1883,15955.36,Consumer Durables Loan,0.79,merchant_offer_1,0.9,0.96,8,Rural Affluence
+2490,13318.69,Consumer Durables Loan,0.66,merchant_offer_1,0.95,0.72,4,Rural Affluence
+3846,21709.23,Consumer Durables Loan,0.65,merchant_offer_1,0.55,0.7,10,Rural Affluence
+464,6650.77,Home Renovation Loan,0.75,merchant_offer_1,0.78,0.89,7,Rural Affluence
+2929,19982.66,Consumer Durables Loan,0.94,merchant_offer_1,0.73,0.71,9,Rural Affluence
+2146,16174.2,Travel Loan,0.96,merchant_offer_1,0.86,0.85,7,Rural Affluence
+2650,1262.25,Consumer Durables Loan,0.88,merchant_offer_1,0.57,0.69,6,Rural Affluence
+1954,3625.59,Travel Loan,0.6,merchant_offer_1,0.78,0.65,6,Rural Affluence
+4417,17447.9,Travel Loan,0.42,merchant_offer_1,0.82,0.71,4,Rural Affluence
+725,11622.51,Travel Loan,0.6,merchant_offer_1,0.82,0.58,9,Rural Affluence
+1512,1265.98,Consumer Durables Loan,0.81,merchant_offer_1,0.75,0.91,8,Rural Affluence
+1146,6078.16,Consumer Durables Loan,0.58,merchant_offer_1,0.71,0.78,10,Rural Affluence
+365,3663.36,Travel Loan,0.54,merchant_offer_2,0.77,0.69,4,Rural Affluence
+2122,7102.7,Consumer Durables Loan,0.63,merchant_offer_2,0.59,0.81,5,Rural Affluence
+649,17535.98,Consumer Durables Loan,0.94,merchant_offer_2,0.83,0.94,6,Rural Affluence
+3766,23228.76,Consumer Durables Loan,0.67,merchant_offer_2,0.52,0.74,8,Rural Affluence
+12802,25422.8,Consumer Durables Loan,0.92,merchant_offer_2,0.79,0.64,7,Rural Affluence
+2177,16317.99,Home Renovation Loan,0.95,merchant_offer_2,0.52,0.48,6,Rural Affluence
+51,501.82,Consumer Durables Loan,0.67,merchant_offer_2,0.88,0.85,5,Rural Affluence
+5526,2903.27,Travel Loan,0.75,merchant_offer_2,0.9,0.5,7,Rural Affluence
+3308,25507.1,Consumer Durables Loan,0.81,merchant_offer_2,0.43,0.53,8,Rural Affluence
+3501,1240.08,Travel Loan,0.89,merchant_offer_2,0.66,0.98,5,Rural Affluence
+9717,4549.38,Consumer Durables Loan,0.41,merchant_offer_2,0.47,0.7,8,Rural Affluence
+60,10940.8,Travel Loan,0.67,merchant_offer_2,0.63,0.87,6,Rural Affluence
+2623,459.53,Consumer Durables Loan,0.61,merchant_offer_2,0.84,0.54,8,Rural Affluence
+483,8849.41,Consumer Durables Loan,0.46,merchant_offer_2,0.58,0.46,8,Rural Affluence
+3357,11423.97,Home Renovation Loan,0.64,merchant_offer_2,0.86,0.98,7,Rural Affluence
+4019,8633.4,Travel Loan,0.67,merchant_offer_3,0.81,0.84,7,Rural Affluence
+5232,4616.28,Home Renovation Loan,0.97,merchant_offer_3,0.87,0.75,7,Rural Affluence
+4516,26274.18,Consumer Durables Loan,0.97,merchant_offer_3,0.76,0.54,7,Rural Affluence
+4701,1137.8,Consumer Durables Loan,0.66,merchant_offer_3,0.43,0.84,8,Rural Affluence
+1912,17261.56,Consumer Durables Loan,0.62,merchant_offer_3,0.64,0.52,8,Rural Affluence
+2154,482.74,Consumer Durables Loan,0.62,merchant_offer_3,0.58,0.91,9,Rural Affluence
+13968,17686.56,Travel Loan,0.78,merchant_offer_3,0.66,0.58,8,Rural Affluence
+1819,13988.93,Consumer Durables Loan,0.92,merchant_offer_3,0.79,0.68,9,Rural Affluence
+10528,9319.23,Home Renovation Loan,0.6,merchant_offer_3,0.89,0.86,10,Rural Affluence
+3257,5443.59,Consumer Durables Loan,0.76,merchant_offer_3,0.49,0.62,10,Rural Affluence
+1461,1289.29,Travel Loan,0.67,merchant_offer_3,0.65,0.82,7,Rural Affluence
+174,4224.9,Travel Loan,0.8,merchant_offer_3,0.53,0.87,10,Rural Affluence
+1310,7281.35,Consumer Durables Loan,0.84,merchant_offer_3,0.62,0.68,6,Rural Affluence
+158,10592.3,Consumer Durables Loan,0.93,merchant_offer_3,0.84,0.65,9,Rural Affluence
+4230,6638.25,Consumer Durables Loan,0.79,merchant_offer_3,0.76,0.69,8,Rural Affluence
+6610,5189.68,Consumer Durables Loan,0.59,merchant_offer_3,0.46,0.85,8,Rural Affluence
+3253,17342.96,Consumer Durables Loan,0.54,merchant_offer_3,0.61,0.77,9,Rural Affluence
+1579,12957.55,Travel Loan,0.81,merchant_offer_3,0.46,0.55,6,Rural Affluence
+5132,25496.46,Travel Loan,0.92,merchant_offer_4,0.53,0.82,7,Rural Affluence
+1452,923.72,Consumer Durables Loan,0.85,merchant_offer_4,0.62,0.97,6,Rural Affluence
+2688,3155.01,Consumer Durables Loan,0.4,merchant_offer_4,0.83,0.65,7,Rural Affluence
+4823,1588.35,Travel Loan,0.6,merchant_offer_4,0.54,0.72,6,Rural Affluence
+41,9525.27,Travel Loan,0.85,merchant_offer_4,0.57,0.61,9,Rural Affluence
+1251,17533.99,Consumer Durables Loan,0.64,merchant_offer_4,0.73,0.62,5,Rural Affluence
+3699,8481.36,Consumer Durables Loan,0.95,merchant_offer_4,0.75,0.86,9,Rural Affluence
+280,3199.78,Consumer Durables Loan,0.51,merchant_offer_4,0.73,0.8,7,Rural Affluence
+2299,4823.05,Consumer Durables Loan,0.51,merchant_offer_4,0.59,0.62,10,Rural Affluence
+3811,6920.63,Travel Loan,0.6,merchant_offer_4,0.55,0.85,5,Rural Affluence
+3130,17647.2,Consumer Durables Loan,0.48,merchant_offer_4,0.48,0.48,6,Rural Affluence
+2401,6539.41,Home Renovation Loan,0.98,merchant_offer_4,0.87,0.79,9,Rural Affluence
+11596,6751.94,Consumer Durables Loan,0.55,merchant_offer_4,0.54,0.41,10,Rural Affluence
+5275,2913.84,Travel Loan,0.57,merchant_offer_4,0.81,0.64,6,Rural Affluence
+4765,11016.64,Consumer Durables Loan,0.73,merchant_offer_4,0.86,0.64,9,Rural Affluence
+5579,1528.84,Travel Loan,0.99,merchant_offer_5,0.64,0.83,10,Rural Affluence
+7959,8435.05,Consumer Durables Loan,0.74,merchant_offer_5,0.86,0.86,8,Rural Affluence
+4833,14744.86,Consumer Durables Loan,0.89,merchant_offer_5,0.73,0.46,7,Rural Affluence
+2126,9192.46,Consumer Durables Loan,0.79,merchant_offer_5,0.89,0.76,9,Rural Affluence
+4518,8590.04,Home Renovation Loan,0.68,merchant_offer_5,0.51,0.48,7,Rural Affluence
+425,9787.57,Consumer Durables Loan,0.69,merchant_offer_5,0.73,0.81,9,Rural Affluence
+3066,19623.17,Consumer Durables Loan,0.88,merchant_offer_5,0.58,0.87,5,Rural Affluence
+3589,4671.6,Consumer Durables Loan,0.83,merchant_offer_5,0.74,0.51,8,Rural Affluence
+10912,7959.02,Consumer Durables Loan,0.88,merchant_offer_5,0.78,0.75,8,Rural Affluence
+907,6528.17,Travel Loan,0.73,merchant_offer_5,0.88,0.97,6,Rural Affluence
+434,17937.72,Consumer Durables Loan,0.77,merchant_offer_5,0.66,0.72,8,Rural Affluence
+1886,4085.4,Consumer Durables Loan,0.81,merchant_offer_5,0.82,0.51,9,Rural Affluence
+131,13320.31,Consumer Durables Loan,0.86,merchant_offer_5,0.51,0.68,8,Rural Affluence
+116,3822.59,Travel Loan,0.58,merchant_offer_5,0.79,0.58,5,Rural Affluence
+3186,7520.03,Consumer Durables Loan,0.59,merchant_offer_5,0.83,0.52,7,Rural Affluence
+2529,18765.32,Travel Loan,0.66,merchant_offer_6,0.49,0.85,10,Rural Affluence
+10198,11525.14,Consumer Durables Loan,0.61,merchant_offer_6,0.76,0.63,8,Rural Affluence
+2820,2645.83,Debt Consolidation Loan,0.84,merchant_offer_6,0.75,0.87,8,Rural Affluence
+3615,20984.7,Consumer Durables Loan,0.88,merchant_offer_6,0.52,0.88,6,Rural Affluence
+9833,16297.93,Travel Loan,0.58,merchant_offer_6,0.71,0.45,5,Rural Affluence
+3769,15288.12,Consumer Durables Loan,0.74,merchant_offer_6,0.89,0.71,7,Rural Affluence
+2978,8079.72,Consumer Durables Loan,0.74,merchant_offer_6,0.46,0.56,6,Rural Affluence
+562,25916.92,Consumer Durables Loan,0.78,merchant_offer_6,0.81,0.82,5,Rural Affluence
+447,8400.82,Travel Loan,0.64,merchant_offer_6,0.54,0.8,6,Rural Affluence
+1607,4075.36,Consumer Durables Loan,0.57,merchant_offer_6,0.76,0.61,10,Rural Affluence
+3753,8884.38,Consumer Durables Loan,0.84,merchant_offer_6,0.56,0.61,10,Rural Affluence
+4674,17797.57,Consumer Durables Loan,0.68,merchant_offer_6,0.54,0.57,8,Rural Affluence
+1019,64.2,Consumer Durables Loan,0.8,merchant_offer_6,0.82,0.59,7,Rural Affluence
+3184,4914.5,Home Renovation Loan,0.55,merchant_offer_6,0.77,0.69,10,Rural Affluence
+2104,10826.37,Travel Loan,0.82,merchant_offer_6,0.95,0.46,9,Rural Affluence
+12079,17563.09,Consumer Durables Loan,0.87,merchant_offer_7,0.63,0.5,10,Rural Affluence
+1438,7409.52,Consumer Durables Loan,0.81,merchant_offer_7,0.54,0.6,8,Rural Affluence
+2128,2517.76,Home Renovation Loan,0.84,merchant_offer_7,0.73,0.75,6,Rural Affluence
+3019,9963.68,Consumer Durables Loan,0.88,merchant_offer_7,0.54,0.51,9,Rural Affluence
+1980,11491.57,Travel Loan,0.87,merchant_offer_7,0.96,0.72,4,Rural Affluence
+273,22607.97,Consumer Durables Loan,0.42,merchant_offer_7,0.5,0.79,6,Rural Affluence
+1517,9105.83,Consumer Durables Loan,0.96,merchant_offer_7,0.66,0.75,4,Rural Affluence
+608,23501.4,Travel Loan,0.42,merchant_offer_7,0.63,0.48,7,Rural Affluence
+132,5863.17,Consumer Durables Loan,0.84,merchant_offer_7,0.58,0.77,4,Rural Affluence
+7434,29792.68,Consumer Durables Loan,0.67,merchant_offer_7,0.82,0.57,6,Rural Affluence
+3427,12137.96,Travel Loan,0.52,merchant_offer_7,0.87,0.86,7,Rural Affluence
+4560,29488.28,Travel Loan,0.52,merchant_offer_7,0.78,0.75,5,Rural Affluence
+3913,9340.02,Consumer Durables Loan,0.89,merchant_offer_7,0.74,0.71,9,Rural Affluence
+1929,9870.94,Consumer Durables Loan,0.83,merchant_offer_8,0.52,0.75,6,Rural Affluence
+4749,7223.83,Home Renovation Loan,0.63,merchant_offer_8,0.72,0.42,10,Rural Affluence
+3337,6921.07,Travel Loan,0.75,merchant_offer_8,0.65,0.76,5,Rural Affluence
+2984,5627.24,Home Renovation Loan,0.57,merchant_offer_8,0.93,0.51,7,Rural Affluence
+2998,7221.15,Travel Loan,0.75,merchant_offer_8,0.41,1.0,7,Rural Affluence
+4699,18960.74,Consumer Durables Loan,0.44,merchant_offer_8,0.77,0.58,8,Rural Affluence
+2538,20495.28,Travel Loan,0.77,merchant_offer_8,0.95,0.63,8,Rural Affluence
+9555,23707.49,Consumer Durables Loan,0.8,merchant_offer_8,0.7,0.63,8,Rural Affluence
+3197,1734.62,Consumer Durables Loan,0.87,merchant_offer_8,0.71,0.47,7,Rural Affluence
+2740,27747.33,Consumer Durables Loan,0.85,merchant_offer_8,0.74,0.66,9,Rural Affluence
+1899,804.52,Travel Loan,0.43,merchant_offer_8,0.5,0.89,6,Rural Affluence
+3813,22831.21,Consumer Durables Loan,0.67,merchant_offer_8,0.8,0.57,6,Rural Affluence
+1380,4652.2,Consumer Durables Loan,0.43,merchant_offer_8,0.47,0.86,7,Rural Affluence
+4555,24597.24,Consumer Durables Loan,0.41,merchant_offer_8,0.53,0.65,10,Rural Affluence
+13468,4457.35,Consumer Durables Loan,0.56,merchant_offer_8,0.8,0.9,10,Rural Affluence
+4543,8559.92,Travel Loan,0.6,merchant_offer_8,0.67,0.63,8,Rural Affluence
+3104,15224.99,Consumer Durables Loan,0.78,merchant_offer_9,0.8,0.59,4,Rural Affluence
+4467,25400.31,Consumer Durables Loan,0.85,merchant_offer_9,0.61,0.77,9,Rural Affluence
+4437,3290.47,Consumer Durables Loan,0.45,merchant_offer_9,0.71,0.56,5,Rural Affluence
+1765,8557.99,Travel Loan,0.62,merchant_offer_9,0.69,0.6,5,Rural Affluence
+2005,8237.75,Travel Loan,0.6,merchant_offer_9,0.77,0.76,9,Rural Affluence
+1179,19964.16,Consumer Durables Loan,0.73,merchant_offer_9,0.83,0.59,6,Rural Affluence
+2488,4455.41,Consumer Durables Loan,0.67,merchant_offer_9,0.78,0.57,9,Rural Affluence
+3477,941.14,Consumer Durables Loan,0.86,merchant_offer_9,0.7,0.72,8,Rural Affluence
+3893,5031.1,Travel Loan,0.8,merchant_offer_9,0.42,0.87,7,Rural Affluence
+4081,5692.36,Home Renovation Loan,0.77,merchant_offer_9,0.67,0.51,4,Rural Affluence
+1345,7315.48,Consumer Durables Loan,0.71,merchant_offer_9,0.94,0.51,8,Rural Affluence
+819,7180.15,Consumer Durables Loan,0.43,merchant_offer_9,0.77,0.63,8,Rural Affluence
+3245,2600.22,Travel Loan,0.52,merchant_offer_10,0.66,0.7,6,Rural Affluence
+3504,8948.81,Travel Loan,0.55,merchant_offer_10,0.97,0.74,8,Rural Affluence
+3384,13308.14,Consumer Durables Loan,0.85,merchant_offer_10,0.72,0.81,10,Rural Affluence
+10282,4996.41,Travel Loan,0.53,merchant_offer_10,0.69,0.45,4,Rural Affluence
+13750,1440.66,Consumer Durables Loan,0.56,merchant_offer_10,0.95,0.7,7,Rural Affluence
+76,19267.9,Home Renovation Loan,0.6,merchant_offer_10,0.83,0.69,9,Rural Affluence
+130,20998.09,Consumer Durables Loan,0.69,merchant_offer_10,0.7,0.57,7,Rural Affluence
+236,6502.82,Travel Loan,0.51,merchant_offer_0,0.79,0.68,7,Salaried Professionals
+11545,18375.77,Consumer Durables Loan,0.69,merchant_offer_0,0.72,0.84,7,Salaried Professionals
+1292,10561.98,Debt Consolidation Loan,0.59,merchant_offer_0,0.59,0.78,8,Salaried Professionals
+2287,1430.8,Travel Loan,0.51,merchant_offer_0,0.82,0.55,8,Salaried Professionals
+2329,1461.12,Travel Loan,0.57,merchant_offer_0,0.63,0.53,9,Salaried Professionals
+1243,18824.95,Consumer Durables Loan,0.63,merchant_offer_0,0.72,0.88,5,Salaried Professionals
+83,12696.6,Consumer Durables Loan,0.68,merchant_offer_0,0.52,0.83,10,Salaried Professionals
+8359,14652.14,Travel Loan,0.94,merchant_offer_1,0.41,0.92,9,Salaried Professionals
+722,16712.92,Home Renovation Loan,0.82,merchant_offer_1,0.87,0.5,9,Salaried Professionals
+3395,3235.97,Consumer Durables Loan,0.57,merchant_offer_1,0.75,0.59,5,Salaried Professionals
+5224,15662.55,Travel Loan,0.43,merchant_offer_1,0.64,0.89,4,Salaried Professionals
+3116,19336.69,Debt Consolidation Loan,0.84,merchant_offer_1,0.72,0.62,8,Salaried Professionals
+1140,1686.29,Travel Loan,0.69,merchant_offer_1,0.99,0.43,9,Salaried Professionals
+646,5042.5,Consumer Durables Loan,0.48,merchant_offer_1,0.62,0.78,7,Salaried Professionals
+1316,9273.1,Consumer Durables Loan,0.6,merchant_offer_1,0.69,0.44,10,Salaried Professionals
+584,2445.52,Consumer Durables Loan,0.61,merchant_offer_1,0.9,0.73,9,Salaried Professionals
+9641,14338.13,Travel Loan,0.5,merchant_offer_1,0.54,0.43,5,Salaried Professionals
+3236,14683.19,Consumer Durables Loan,0.85,merchant_offer_1,0.88,0.79,6,Salaried Professionals
+9276,5588.9,Travel Loan,0.78,merchant_offer_1,0.95,0.8,6,Salaried Professionals
+4100,12017.69,Travel Loan,0.53,merchant_offer_1,0.5,0.78,8,Salaried Professionals
+1930,18861.58,Consumer Durables Loan,0.78,merchant_offer_1,0.76,0.68,8,Salaried Professionals
+2845,4673.81,Consumer Durables Loan,0.69,merchant_offer_1,0.64,0.72,9,Salaried Professionals
+2542,10510.27,Travel Loan,0.94,merchant_offer_2,0.59,0.87,9,Salaried Professionals
+4832,21891.6,Consumer Durables Loan,0.88,merchant_offer_2,0.75,0.78,5,Salaried Professionals
+11497,6621.13,Consumer Durables Loan,0.65,merchant_offer_2,0.47,0.55,8,Salaried Professionals
+3721,10116.85,Home Renovation Loan,0.88,merchant_offer_2,0.79,0.53,5,Salaried Professionals
+4974,3100.13,Consumer Durables Loan,0.76,merchant_offer_2,0.86,0.87,7,Salaried Professionals
+2785,15733.21,Debt Consolidation Loan,0.54,merchant_offer_2,0.93,0.66,6,Salaried Professionals
+2431,8953.22,Consumer Durables Loan,0.85,merchant_offer_2,0.63,0.8,8,Salaried Professionals
+1583,4525.15,Home Renovation Loan,0.55,merchant_offer_2,0.69,0.67,5,Salaried Professionals
+2065,9872.31,Consumer Durables Loan,0.77,merchant_offer_2,0.69,0.86,8,Salaried Professionals
+1736,2157.37,Consumer Durables Loan,0.96,merchant_offer_2,0.76,0.66,7,Salaried Professionals
+575,23353.92,Travel Loan,0.68,merchant_offer_2,0.68,0.42,9,Salaried Professionals
+4343,6991.24,Consumer Durables Loan,0.54,merchant_offer_2,0.61,0.84,5,Salaried Professionals
+3085,18115.35,Consumer Durables Loan,0.65,merchant_offer_2,0.95,0.76,7,Salaried Professionals
+4007,766.99,Travel Loan,0.55,merchant_offer_2,0.98,0.65,8,Salaried Professionals
+438,4870.49,Travel Loan,0.55,merchant_offer_2,0.74,0.53,8,Salaried Professionals
+12328,12286.47,Consumer Durables Loan,0.71,merchant_offer_3,0.69,0.68,9,Salaried Professionals
+4429,15065.36,Travel Loan,0.74,merchant_offer_3,0.51,0.82,4,Salaried Professionals
+3590,9226.24,Consumer Durables Loan,0.51,merchant_offer_3,0.5,0.57,9,Salaried Professionals
+510,3965.2,Travel Loan,0.7,merchant_offer_3,0.9,0.58,9,Salaried Professionals
+2606,5378.29,Travel Loan,0.7,merchant_offer_3,0.8,0.66,8,Salaried Professionals
+4721,6768.13,Home Renovation Loan,0.53,merchant_offer_3,1.0,0.69,9,Salaried Professionals
+858,15586.45,Consumer Durables Loan,0.58,merchant_offer_3,0.78,0.8,9,Salaried Professionals
+374,113.42,Consumer Durables Loan,0.42,merchant_offer_3,0.57,0.81,7,Salaried Professionals
+1536,3102.83,Home Renovation Loan,0.72,merchant_offer_3,0.66,0.81,10,Salaried Professionals
+1339,3538.69,Debt Consolidation Loan,0.71,merchant_offer_3,0.87,0.67,9,Salaried Professionals
+1378,5750.95,Consumer Durables Loan,0.68,merchant_offer_3,0.56,0.52,10,Salaried Professionals
+4592,1894.82,Consumer Durables Loan,0.67,merchant_offer_3,0.81,0.66,9,Salaried Professionals
+3519,2940.86,Consumer Durables Loan,0.89,merchant_offer_3,0.5,0.58,7,Salaried Professionals
+3415,1978.66,Consumer Durables Loan,0.74,merchant_offer_3,0.71,0.88,8,Salaried Professionals
+12599,2259.44,Consumer Durables Loan,0.68,merchant_offer_3,0.8,0.5,8,Salaried Professionals
+1280,15966.51,Travel Loan,0.75,merchant_offer_3,0.68,0.63,5,Salaried Professionals
+12943,6373.39,Travel Loan,0.73,merchant_offer_3,0.63,0.74,9,Salaried Professionals
+1668,17286.15,Consumer Durables Loan,0.77,merchant_offer_4,0.63,0.5,9,Salaried Professionals
+358,7920.01,Consumer Durables Loan,0.61,merchant_offer_4,0.84,0.9,8,Salaried Professionals
+2478,8152.96,Consumer Durables Loan,0.77,merchant_offer_4,0.81,0.89,7,Salaried Professionals
+3943,6191.81,Travel Loan,0.71,merchant_offer_4,0.97,0.81,8,Salaried Professionals
+2361,19446.45,Debt Consolidation Loan,0.9,merchant_offer_4,0.89,0.54,9,Salaried Professionals
+3404,27775.9,Consumer Durables Loan,0.78,merchant_offer_4,0.83,0.87,7,Salaried Professionals
+566,3597.93,Consumer Durables Loan,0.98,merchant_offer_4,0.58,0.63,6,Salaried Professionals
+3387,1825.16,Travel Loan,0.89,merchant_offer_4,0.94,0.61,9,Salaried Professionals
+1707,24612.99,Travel Loan,0.8,merchant_offer_4,0.5,0.85,8,Salaried Professionals
+1242,2552.14,Consumer Durables Loan,0.66,merchant_offer_4,0.58,0.51,9,Salaried Professionals
+963,5649.33,Consumer Durables Loan,0.52,merchant_offer_4,0.51,0.91,7,Salaried Professionals
+3567,16170.37,Consumer Durables Loan,0.42,merchant_offer_4,0.76,0.58,6,Salaried Professionals
+402,5647.31,Consumer Durables Loan,0.85,merchant_offer_4,0.86,0.47,6,Salaried Professionals
+1424,8555.16,Consumer Durables Loan,0.55,merchant_offer_4,0.59,0.7,9,Salaried Professionals
+4976,29498.7,Travel Loan,0.81,merchant_offer_4,0.98,0.56,6,Salaried Professionals
+4376,20526.55,Travel Loan,0.84,merchant_offer_4,0.66,0.48,8,Salaried Professionals
+5138,16073.57,Consumer Durables Loan,0.77,merchant_offer_5,0.53,0.77,6,Salaried Professionals
+1578,13649.79,Consumer Durables Loan,0.74,merchant_offer_5,0.5,0.7,10,Salaried Professionals
+3267,13225.69,Consumer Durables Loan,0.54,merchant_offer_5,0.59,0.63,6,Salaried Professionals
+2168,9056.61,Home Renovation Loan,0.86,merchant_offer_5,0.78,0.56,10,Salaried Professionals
+5684,6170.04,Consumer Durables Loan,0.63,merchant_offer_5,0.89,0.92,7,Salaried Professionals
+12850,22256.64,Debt Consolidation Loan,0.47,merchant_offer_5,0.76,0.78,9,Salaried Professionals
+1018,13944.12,Travel Loan,0.53,merchant_offer_5,0.74,0.77,7,Salaried Professionals
+3883,3909.85,Travel Loan,0.78,merchant_offer_5,0.6,0.82,7,Salaried Professionals
+2724,28538.91,Travel Loan,0.79,merchant_offer_5,0.76,0.76,8,Salaried Professionals
+4157,17594.8,Travel Loan,0.77,merchant_offer_5,0.91,0.44,7,Salaried Professionals
+6178,268.56,Consumer Durables Loan,0.73,merchant_offer_5,0.51,0.8,5,Salaried Professionals
+2063,14088.28,Consumer Durables Loan,0.57,merchant_offer_5,0.71,0.88,9,Salaried Professionals
+3136,2268.04,Consumer Durables Loan,0.83,merchant_offer_5,0.8,0.85,7,Salaried Professionals
+3577,21901.25,Consumer Durables Loan,0.69,merchant_offer_5,0.9,0.53,8,Salaried Professionals
+3256,14936.59,Travel Loan,0.85,merchant_offer_6,0.73,0.8,6,Salaried Professionals
+1850,1874.2,Consumer Durables Loan,0.72,merchant_offer_6,0.54,0.52,8,Salaried Professionals
+4316,23406.35,Consumer Durables Loan,0.84,merchant_offer_6,0.62,0.54,6,Salaried Professionals
+1861,4912.48,Consumer Durables Loan,0.55,merchant_offer_6,0.6,0.88,6,Salaried Professionals
+1890,3194.99,Consumer Durables Loan,1.0,merchant_offer_6,0.86,0.74,7,Salaried Professionals
+2864,23870.85,Consumer Durables Loan,0.45,merchant_offer_6,0.72,0.59,9,Salaried Professionals
+2532,1372.11,Consumer Durables Loan,0.66,merchant_offer_6,0.6,0.53,8,Salaried Professionals
+4534,25655.37,Consumer Durables Loan,0.9,merchant_offer_6,0.88,0.87,7,Salaried Professionals
+3075,10991.45,Travel Loan,0.74,merchant_offer_6,0.81,0.69,7,Salaried Professionals
+12662,14595.58,Debt Consolidation Loan,0.86,merchant_offer_6,0.73,0.43,8,Salaried Professionals
+5012,17240.18,Consumer Durables Loan,0.75,merchant_offer_6,0.95,0.53,7,Salaried Professionals
+1610,3328.64,Consumer Durables Loan,0.66,merchant_offer_6,0.53,0.75,9,Salaried Professionals
+3535,17379.41,Travel Loan,0.45,merchant_offer_6,0.4,0.96,9,Salaried Professionals
+707,26862.94,Travel Loan,0.58,merchant_offer_6,0.41,0.81,8,Salaried Professionals
+662,5579.25,Consumer Durables Loan,0.59,merchant_offer_6,0.96,0.68,8,Salaried Professionals
+3079,18540.46,Travel Loan,0.79,merchant_offer_7,0.84,0.55,10,Salaried Professionals
+3606,10905.01,Travel Loan,0.89,merchant_offer_7,0.79,0.64,6,Salaried Professionals
+3779,17941.76,Consumer Durables Loan,0.68,merchant_offer_7,0.53,0.6,8,Salaried Professionals
+1629,3616.0,Debt Consolidation Loan,0.87,merchant_offer_7,0.91,0.67,9,Salaried Professionals
+3735,10627.52,Consumer Durables Loan,0.45,merchant_offer_7,0.69,0.5,10,Salaried Professionals
+114,249.98,Home Renovation Loan,0.56,merchant_offer_7,0.6,0.53,5,Salaried Professionals
+3084,4129.8,Consumer Durables Loan,0.96,merchant_offer_7,0.76,0.91,9,Salaried Professionals
+3124,16347.52,Consumer Durables Loan,0.97,merchant_offer_7,0.54,0.58,7,Salaried Professionals
+3611,14220.64,Consumer Durables Loan,0.63,merchant_offer_7,0.79,0.57,7,Salaried Professionals
+1197,24754.37,Consumer Durables Loan,0.45,merchant_offer_7,0.65,0.72,7,Salaried Professionals
+1057,7538.79,Travel Loan,0.78,merchant_offer_7,0.64,0.59,8,Salaried Professionals
+3782,28780.96,Travel Loan,0.55,merchant_offer_7,0.81,0.88,9,Salaried Professionals
+12050,15037.32,Consumer Durables Loan,0.72,merchant_offer_7,0.53,0.71,6,Salaried Professionals
+590,12410.11,Debt Consolidation Loan,0.61,merchant_offer_8,0.49,0.53,6,Salaried Professionals
+3448,20723.11,Travel Loan,0.65,merchant_offer_8,0.66,0.61,5,Salaried Professionals
+326,14117.27,Consumer Durables Loan,0.49,merchant_offer_8,0.77,0.62,6,Salaried Professionals
+2572,6079.15,Travel Loan,0.55,merchant_offer_8,0.78,0.67,8,Salaried Professionals
+6644,12659.01,Consumer Durables Loan,0.73,merchant_offer_8,0.61,0.95,7,Salaried Professionals
+3360,6192.53,Consumer Durables Loan,0.7,merchant_offer_8,0.99,0.78,7,Salaried Professionals
+3994,9658.75,Consumer Durables Loan,0.89,merchant_offer_8,0.73,0.55,5,Salaried Professionals
+7576,3778.11,Travel Loan,0.63,merchant_offer_8,0.58,0.73,8,Salaried Professionals
+1459,14455.34,Travel Loan,0.71,merchant_offer_8,0.85,0.45,9,Salaried Professionals
+716,8740.28,Home Renovation Loan,0.58,merchant_offer_8,0.72,0.73,7,Salaried Professionals
+4166,710.85,Travel Loan,0.87,merchant_offer_8,0.82,0.64,8,Salaried Professionals
+4380,12630.18,Consumer Durables Loan,0.98,merchant_offer_8,0.91,0.53,10,Salaried Professionals
+4235,20240.03,Consumer Durables Loan,0.94,merchant_offer_8,0.52,0.75,9,Salaried Professionals
+4680,19100.87,Consumer Durables Loan,0.52,merchant_offer_8,0.88,0.5,8,Salaried Professionals
+3378,4738.05,Consumer Durables Loan,0.52,merchant_offer_8,0.64,0.68,4,Salaried Professionals
+769,13370.04,Travel Loan,0.73,merchant_offer_8,0.43,0.81,6,Salaried Professionals
+2138,1986.07,Consumer Durables Loan,0.73,merchant_offer_9,0.61,0.75,9,Salaried Professionals
+4715,2704.5,Consumer Durables Loan,0.85,merchant_offer_9,0.75,0.88,9,Salaried Professionals
+2977,10923.7,Consumer Durables Loan,0.92,merchant_offer_9,0.65,0.64,9,Salaried Professionals
+4341,1518.19,Consumer Durables Loan,0.76,merchant_offer_9,0.92,0.52,9,Salaried Professionals
+4171,694.87,Travel Loan,0.63,merchant_offer_9,0.52,0.79,7,Salaried Professionals
+3959,25063.2,Consumer Durables Loan,0.57,merchant_offer_9,0.48,0.75,10,Salaried Professionals
+3023,4683.0,Travel Loan,0.67,merchant_offer_9,0.79,0.95,7,Salaried Professionals
+378,4040.02,Travel Loan,0.82,merchant_offer_9,0.82,0.55,10,Salaried Professionals
+12133,12417.39,Consumer Durables Loan,0.63,merchant_offer_9,0.74,0.92,6,Salaried Professionals
+2924,8208.93,Consumer Durables Loan,0.43,merchant_offer_9,0.75,0.68,7,Salaried Professionals
+4725,18181.7,Travel Loan,0.43,merchant_offer_9,0.97,0.77,7,Salaried Professionals
+2133,8620.2,Consumer Durables Loan,0.83,merchant_offer_9,0.74,0.52,8,Salaried Professionals
+7286,9922.24,Home Renovation Loan,0.78,merchant_offer_9,0.71,0.81,9,Salaried Professionals
+2782,7741.53,Consumer Durables Loan,0.42,merchant_offer_10,0.73,0.79,8,Salaried Professionals
+6299,5746.91,Travel Loan,0.5,merchant_offer_10,0.86,0.53,9,Salaried Professionals
+2445,1503.42,Consumer Durables Loan,0.83,merchant_offer_10,0.41,0.63,4,Salaried Professionals
+2045,12201.92,Travel Loan,0.71,merchant_offer_10,0.59,0.5,6,Salaried Professionals
+2698,18514.02,Consumer Durables Loan,0.64,merchant_offer_10,0.53,0.53,6,Salaried Professionals
+2267,9575.94,Home Renovation Loan,0.6,merchant_offer_10,0.96,0.72,8,Salaried Professionals
+4546,17134.89,Consumer Durables Loan,1.0,merchant_offer_0,0.72,0.96,7,High Networth Individuals
+5563,10442.06,Travel Loan,0.74,merchant_offer_0,0.83,0.97,9,High Networth Individuals
+667,29279.52,Consumer Durables Loan,0.84,merchant_offer_0,0.82,0.86,6,High Networth Individuals
+4194,881.63,Consumer Durables Loan,0.74,merchant_offer_0,0.86,0.64,6,High Networth Individuals
+1691,11529.72,Consumer Durables Loan,0.82,merchant_offer_0,0.52,0.6,7,High Networth Individuals
+2522,4594.08,Travel Loan,0.71,merchant_offer_0,0.82,0.76,5,High Networth Individuals
+1799,965.49,Consumer Durables Loan,0.61,merchant_offer_0,0.87,0.92,7,High Networth Individuals
+3063,1950.48,Consumer Durables Loan,0.64,merchant_offer_1,0.82,0.77,8,High Networth Individuals
+1831,3219.04,Travel Loan,0.45,merchant_offer_1,0.8,0.81,9,High Networth Individuals
+2335,6740.52,Consumer Durables Loan,0.84,merchant_offer_1,0.99,0.87,4,High Networth Individuals
+3230,8151.15,Consumer Durables Loan,0.58,merchant_offer_1,0.61,0.72,7,High Networth Individuals
+3201,8470.07,Consumer Durables Loan,0.88,merchant_offer_1,0.66,0.79,9,High Networth Individuals
+3544,3061.17,Consumer Durables Loan,0.72,merchant_offer_1,0.75,0.55,7,High Networth Individuals
+3667,7340.95,Consumer Durables Loan,0.64,merchant_offer_1,0.53,0.87,7,High Networth Individuals
+2434,7715.24,Consumer Durables Loan,0.94,merchant_offer_1,0.78,0.65,9,High Networth Individuals
+1333,1735.21,Travel Loan,0.61,merchant_offer_1,0.43,0.66,4,High Networth Individuals
+2958,1123.52,Home Renovation Loan,0.77,merchant_offer_1,0.51,0.75,9,High Networth Individuals
+4791,9963.78,Travel Loan,0.65,merchant_offer_1,0.43,0.78,6,High Networth Individuals
+5873,1088.78,Consumer Durables Loan,0.71,merchant_offer_1,0.51,0.85,8,High Networth Individuals
+8030,2606.95,Consumer Durables Loan,0.64,merchant_offer_1,0.48,0.59,7,High Networth Individuals
+347,19186.03,Travel Loan,0.44,merchant_offer_1,0.84,0.87,7,High Networth Individuals
+2164,27595.02,Travel Loan,0.9,merchant_offer_1,0.6,0.99,9,High Networth Individuals
+9569,108.44,Consumer Durables Loan,0.82,merchant_offer_1,0.55,0.45,5,High Networth Individuals
+468,1103.28,Consumer Durables Loan,0.68,merchant_offer_2,0.67,0.51,4,High Networth Individuals
+3850,19989.1,Consumer Durables Loan,0.61,merchant_offer_2,0.89,0.81,7,High Networth Individuals
+999,10211.79,Consumer Durables Loan,0.47,merchant_offer_2,0.6,0.53,6,High Networth Individuals
+3756,2608.65,Consumer Durables Loan,0.9,merchant_offer_2,0.68,0.88,9,High Networth Individuals
+2155,19992.72,Travel Loan,0.58,merchant_offer_2,0.64,0.67,8,High Networth Individuals
+4923,27898.66,Travel Loan,0.87,merchant_offer_2,0.77,0.96,9,High Networth Individuals
+2058,23149.93,Travel Loan,0.51,merchant_offer_2,0.7,0.76,9,High Networth Individuals
+1382,10022.68,Consumer Durables Loan,0.57,merchant_offer_2,0.87,0.45,6,High Networth Individuals
+5978,21154.91,Consumer Durables Loan,0.85,merchant_offer_2,0.75,0.44,5,High Networth Individuals
+1791,7080.33,Home Renovation Loan,0.56,merchant_offer_2,0.9,0.7,10,High Networth Individuals
+504,5535.62,Home Renovation Loan,0.86,merchant_offer_2,0.78,0.98,5,High Networth Individuals
+4723,11126.01,Consumer Durables Loan,0.44,merchant_offer_2,0.45,0.66,10,High Networth Individuals
+548,1995.55,Consumer Durables Loan,0.93,merchant_offer_2,0.62,0.69,10,High Networth Individuals
+3620,3181.81,Travel Loan,1.0,merchant_offer_2,0.54,0.64,6,High Networth Individuals
+3885,5670.05,Consumer Durables Loan,0.54,merchant_offer_2,0.95,0.78,7,High Networth Individuals
+3830,4353.49,Consumer Durables Loan,0.46,merchant_offer_3,0.88,0.56,6,High Networth Individuals
+12986,6595.76,Consumer Durables Loan,0.96,merchant_offer_3,0.86,1.0,10,High Networth Individuals
+2995,5062.99,Consumer Durables Loan,0.78,merchant_offer_3,0.82,0.45,4,High Networth Individuals
+6789,13139.62,Consumer Durables Loan,0.72,merchant_offer_3,0.54,0.77,9,High Networth Individuals
+593,13935.73,Consumer Durables Loan,0.88,merchant_offer_3,0.41,0.77,6,High Networth Individuals
+3583,2193.66,Consumer Durables Loan,0.71,merchant_offer_3,0.42,0.57,6,High Networth Individuals
+3134,25145.68,Travel Loan,0.93,merchant_offer_3,0.51,0.87,6,High Networth Individuals
+1396,28822.8,Consumer Durables Loan,0.86,merchant_offer_3,0.61,0.61,4,High Networth Individuals
+859,23967.11,Home Renovation Loan,0.76,merchant_offer_3,0.53,0.45,6,High Networth Individuals
+2430,6157.27,Travel Loan,0.62,merchant_offer_3,0.82,0.67,7,High Networth Individuals
+531,3420.8,Consumer Durables Loan,0.64,merchant_offer_3,0.72,0.86,8,High Networth Individuals
+2562,4797.88,Consumer Durables Loan,0.82,merchant_offer_3,0.51,0.53,8,High Networth Individuals
+4078,10192.65,Consumer Durables Loan,0.58,merchant_offer_3,0.85,0.44,10,High Networth Individuals
+13406,667.5,Consumer Durables Loan,0.76,merchant_offer_3,0.49,0.56,10,High Networth Individuals
+2496,5826.52,Home Renovation Loan,0.85,merchant_offer_3,0.49,0.71,5,High Networth Individuals
+8366,21999.52,Consumer Durables Loan,0.84,merchant_offer_3,0.7,0.82,9,High Networth Individuals
+7127,208.72,Travel Loan,0.54,merchant_offer_3,0.66,0.42,7,High Networth Individuals
+3981,5420.59,Travel Loan,0.6,merchant_offer_3,0.85,0.58,9,High Networth Individuals
+161,10006.2,Consumer Durables Loan,0.9,merchant_offer_4,0.51,0.82,10,High Networth Individuals
+3638,11673.37,Consumer Durables Loan,0.68,merchant_offer_4,0.63,0.82,9,High Networth Individuals
+1483,9613.68,Consumer Durables Loan,0.79,merchant_offer_4,0.44,0.83,9,High Networth Individuals
+4639,17165.69,Consumer Durables Loan,0.54,merchant_offer_4,0.61,0.71,7,High Networth Individuals
+3992,4382.58,Home Renovation Loan,0.95,merchant_offer_4,0.45,0.53,6,High Networth Individuals
+1049,6425.45,Travel Loan,0.45,merchant_offer_4,0.58,0.59,7,High Networth Individuals
+11195,19914.48,Travel Loan,0.64,merchant_offer_4,0.49,0.97,9,High Networth Individuals
+1223,3281.24,Consumer Durables Loan,0.58,merchant_offer_4,0.66,0.67,8,High Networth Individuals
+13620,28709.8,Travel Loan,0.59,merchant_offer_4,0.89,0.61,6,High Networth Individuals
+786,9214.39,Travel Loan,0.73,merchant_offer_4,0.84,0.74,7,High Networth Individuals
+3713,8054.65,Consumer Durables Loan,0.63,merchant_offer_4,0.87,0.7,8,High Networth Individuals
+112,2339.04,Travel Loan,0.6,merchant_offer_4,0.9,0.68,8,High Networth Individuals
+6301,105.83,Consumer Durables Loan,0.51,merchant_offer_4,0.64,0.81,10,High Networth Individuals
+3181,1202.93,Consumer Durables Loan,0.8,merchant_offer_4,0.65,0.7,7,High Networth Individuals
+10798,4979.21,Consumer Durables Loan,0.7,merchant_offer_4,0.76,0.72,8,High Networth Individuals
+10043,4994.39,Consumer Durables Loan,0.73,merchant_offer_4,0.49,0.49,8,High Networth Individuals
+4504,25247.06,Home Renovation Loan,0.93,merchant_offer_5,0.47,0.61,7,High Networth Individuals
+3636,29938.43,Consumer Durables Loan,0.47,merchant_offer_5,0.76,0.57,7,High Networth Individuals
+2527,17894.45,Consumer Durables Loan,0.71,merchant_offer_5,0.53,0.53,5,High Networth Individuals
+493,3470.76,Consumer Durables Loan,0.7,merchant_offer_5,0.73,0.67,8,High Networth Individuals
+4559,21392.05,Consumer Durables Loan,0.61,merchant_offer_5,0.46,0.52,7,High Networth Individuals
+3787,25953.11,Consumer Durables Loan,0.82,merchant_offer_5,0.81,0.51,5,High Networth Individuals
+1842,3523.03,Travel Loan,0.96,merchant_offer_5,0.43,0.74,10,High Networth Individuals
+5911,5155.81,Consumer Durables Loan,0.97,merchant_offer_5,0.96,0.89,10,High Networth Individuals
+2429,9136.0,Travel Loan,0.55,merchant_offer_5,0.66,0.46,6,High Networth Individuals
+321,2221.36,Consumer Durables Loan,0.92,merchant_offer_5,0.63,0.9,6,High Networth Individuals
+10636,15617.88,Travel Loan,0.68,merchant_offer_5,0.62,0.69,8,High Networth Individuals
+4492,4081.75,Consumer Durables Loan,0.71,merchant_offer_5,0.58,0.84,7,High Networth Individuals
+2951,2403.76,Consumer Durables Loan,0.67,merchant_offer_5,0.82,0.71,7,High Networth Individuals
+7325,459.47,Travel Loan,0.6,merchant_offer_5,0.87,0.61,8,High Networth Individuals
+3233,657.51,Travel Loan,0.69,merchant_offer_6,0.65,0.41,7,High Networth Individuals
+1800,22319.15,Consumer Durables Loan,0.59,merchant_offer_6,0.46,0.69,10,High Networth Individuals
+1020,5294.79,Consumer Durables Loan,0.7,merchant_offer_6,0.69,0.75,7,High Networth Individuals
+1089,28494.08,Consumer Durables Loan,0.89,merchant_offer_6,0.8,0.71,10,High Networth Individuals
+1758,20244.77,Travel Loan,0.55,merchant_offer_6,0.88,0.64,10,High Networth Individuals
+2609,15869.45,Travel Loan,0.73,merchant_offer_6,0.63,0.81,8,High Networth Individuals
+2175,2000.34,Consumer Durables Loan,0.6,merchant_offer_6,0.86,0.67,9,High Networth Individuals
+2768,1217.89,Consumer Durables Loan,0.74,merchant_offer_6,0.5,0.82,8,High Networth Individuals
+2214,9983.64,Travel Loan,0.61,merchant_offer_6,0.53,0.87,8,High Networth Individuals
+3733,2713.97,Consumer Durables Loan,0.77,merchant_offer_6,0.57,0.75,4,High Networth Individuals
+4479,8222.28,Consumer Durables Loan,0.71,merchant_offer_6,0.87,0.74,6,High Networth Individuals
+2395,28121.37,Consumer Durables Loan,0.59,merchant_offer_6,0.51,0.96,6,High Networth Individuals
+9593,19751.88,Consumer Durables Loan,0.54,merchant_offer_6,0.49,0.44,8,High Networth Individuals
+3115,470.42,Consumer Durables Loan,0.71,merchant_offer_6,0.8,0.66,8,High Networth Individuals
+1718,8589.64,Consumer Durables Loan,0.65,merchant_offer_7,0.44,0.8,6,High Networth Individuals
+5253,2964.77,Consumer Durables Loan,0.82,merchant_offer_7,0.97,0.79,7,High Networth Individuals
+4457,8719.2,Consumer Durables Loan,0.67,merchant_offer_7,0.55,0.73,9,High Networth Individuals
+9427,6529.05,Consumer Durables Loan,0.65,merchant_offer_7,0.71,0.61,9,High Networth Individuals
+1812,13303.23,Home Renovation Loan,0.57,merchant_offer_7,0.61,0.82,10,High Networth Individuals
+12643,13041.73,Consumer Durables Loan,0.87,merchant_offer_7,0.63,0.59,8,High Networth Individuals
+2440,9248.52,Travel Loan,0.69,merchant_offer_7,0.57,0.93,9,High Networth Individuals
+13576,1775.04,Travel Loan,0.55,merchant_offer_7,0.66,0.49,6,High Networth Individuals
+4165,2642.73,Consumer Durables Loan,0.67,merchant_offer_7,0.9,0.69,9,High Networth Individuals
+2910,18480.53,Travel Loan,0.69,merchant_offer_7,0.59,0.8,8,High Networth Individuals
+167,22374.01,Consumer Durables Loan,0.54,merchant_offer_7,0.63,0.96,9,High Networth Individuals
+1647,5123.46,Consumer Durables Loan,0.43,merchant_offer_7,0.61,0.81,4,High Networth Individuals
+2268,13655.31,Travel Loan,0.87,merchant_offer_7,0.97,0.64,6,High Networth Individuals
+906,3370.94,Travel Loan,0.83,merchant_offer_8,0.91,0.57,8,High Networth Individuals
+153,1454.01,Consumer Durables Loan,0.8,merchant_offer_8,0.67,0.85,8,High Networth Individuals
+694,9757.08,Consumer Durables Loan,0.76,merchant_offer_8,0.76,0.65,7,High Networth Individuals
+2841,1145.81,Consumer Durables Loan,0.68,merchant_offer_8,0.94,0.64,6,High Networth Individuals
+3292,26129.68,Consumer Durables Loan,0.63,merchant_offer_8,0.82,0.57,7,High Networth Individuals
+3279,18778.38,Consumer Durables Loan,0.72,merchant_offer_8,0.84,0.89,6,High Networth Individuals
+473,9446.66,Consumer Durables Loan,0.73,merchant_offer_8,0.62,0.54,8,High Networth Individuals
+4018,15451.64,Consumer Durables Loan,0.74,merchant_offer_8,0.78,0.66,5,High Networth Individuals
+9582,20125.2,Consumer Durables Loan,0.63,merchant_offer_8,0.54,0.57,8,High Networth Individuals
+1833,11595.24,Travel Loan,0.89,merchant_offer_8,0.94,0.6,8,High Networth Individuals
+9760,4521.65,Travel Loan,0.6,merchant_offer_8,0.54,0.72,8,High Networth Individuals
+146,10147.34,Consumer Durables Loan,0.65,merchant_offer_8,0.64,0.54,8,High Networth Individuals
+2423,7900.61,Travel Loan,0.52,merchant_offer_8,0.73,0.85,10,High Networth Individuals
+2332,3830.72,Home Renovation Loan,0.73,merchant_offer_8,0.99,0.86,7,High Networth Individuals
+4061,7908.06,Travel Loan,0.44,merchant_offer_8,0.82,0.75,4,High Networth Individuals
+5243,4883.33,Travel Loan,0.42,merchant_offer_8,0.69,0.5,10,High Networth Individuals
+1826,4162.16,Travel Loan,0.4,merchant_offer_9,0.6,0.53,6,High Networth Individuals
+3260,9843.28,Consumer Durables Loan,0.66,merchant_offer_9,0.75,0.76,9,High Networth Individuals
+2508,9419.31,Consumer Durables Loan,0.55,merchant_offer_9,0.72,0.63,8,High Networth Individuals
+496,11907.08,Consumer Durables Loan,0.54,merchant_offer_9,0.69,0.52,8,High Networth Individuals
+1066,18297.45,Consumer Durables Loan,0.51,merchant_offer_9,0.68,0.51,8,High Networth Individuals
+13051,1973.62,Travel Loan,0.67,merchant_offer_9,0.9,0.58,8,High Networth Individuals
+4651,7063.6,Travel Loan,0.67,merchant_offer_9,0.97,0.57,8,High Networth Individuals
+8217,2414.51,Consumer Durables Loan,0.63,merchant_offer_9,0.99,0.68,9,High Networth Individuals
+2662,343.83,Travel Loan,0.57,merchant_offer_9,0.42,0.71,8,High Networth Individuals
+11409,4128.0,Consumer Durables Loan,0.77,merchant_offer_9,0.81,0.74,8,High Networth Individuals
+1239,1591.62,Consumer Durables Loan,0.65,merchant_offer_9,0.76,0.71,9,High Networth Individuals
+4660,18763.66,Consumer Durables Loan,0.64,merchant_offer_9,0.55,0.75,6,High Networth Individuals
+791,7108.05,Home Renovation Loan,0.87,merchant_offer_9,0.54,0.84,7,High Networth Individuals
+2388,6890.63,Consumer Durables Loan,0.44,merchant_offer_10,0.44,0.59,8,High Networth Individuals
+1168,12828.13,Home Renovation Loan,0.88,merchant_offer_10,0.51,0.97,6,High Networth Individuals
+1329,9803.03,Travel Loan,0.56,merchant_offer_10,0.66,0.63,10,High Networth Individuals
+1440,17351.49,Travel Loan,0.64,merchant_offer_10,0.61,0.73,8,High Networth Individuals
+9929,5581.03,Consumer Durables Loan,0.8,merchant_offer_10,0.68,0.71,5,High Networth Individuals
+3333,11560.2,Consumer Durables Loan,0.64,merchant_offer_10,0.72,0.68,10,High Networth Individuals
+5468,20239.02,Consumer Durables Loan,0.84,merchant_offer_10,0.59,0.85,8,High Networth Individuals
