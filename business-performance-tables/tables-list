@@ -1,0 +1,50 @@
+# This is the list of tables used for the business performance section of the demo
+
+1. LOANS
+
+index INTEGER	NULLABLE				
+loan_id	INTEGER	NULLABLE				
+disp_id	INTEGER	NULLABLE				
+type	STRING	NULLABLE				
+loan_acc_number	FLOAT	NULLABLE				
+acc_open_date	DATE	NULLABLE				
+acc_closure_date	DATE	NULLABLE				
+duration_months	INTEGER	NULLABLE				
+principal_	INTEGER	NULLABLE				
+outstanding	FLOAT	NULLABLE				
+interest_rate	FLOAT	NULLABLE	
+
+2. CUSTOMERS
+
+first_name	STRING	NULLABLE				
+last_name	 STRING	NULLABLE				
+pan_no	STRING	NULLABLE				
+email_id	STRING	NULLABLE				
+gender	STRING	NULLABLE				
+job	STRING	NULLABLE				
+profile	STRING	NULLABLE				
+client_id	INTEGER	NULLABLE				
+district_id	INTEGER	NULLABLE				
+disp_id	INTEGER	NULLABLE				
+traffice_source	STRING	NULLABLE				
+dob	DATE	NULLABLE				
+age	INTEGER	NULLABLE				
+street	STRING	NULLABLE				
+state	STRING	NULLABLE				
+lat	FLOAT	NULLABLE				
+long	FLOAT	NULLABLE				
+pincode	INTEGER	NULLABLE				
+mobile_no	STRING	NULLABLE	
+
+3. CUSTOMER_ATTRIBUTES
+
+client_id	INTEGER	NULLABLE				
+cltv	FLOAT	NULLABLE				
+next_best_product	STRING	NULLABLE				
+product_propensity	FLOAT	NULLABLE				
+next_best_offer	STRING	NULLABLE				
+offer_propensity	FLOAT	NULLABLE				
+churn_score	FLOAT	NULLABLE				
+nps_score	INTEGER	NULLABLE				
+segment	STRING	NULLABLE		
+
